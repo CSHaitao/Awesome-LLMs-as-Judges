@@ -145,75 +145,75 @@ ACL Findings '23 [Paper](https://arxiv.org/abs/2306.01200)
 # 5. LIMITATION
 ## 5.1 Biases
 ### 5.1.1 Presentation-Related Biases
-- Large language models are not robust multiple choice selectors
+- **Large language models are not robust multiple choice selectors**
   
   ICLR 2024 [**Paper**](https://openreview.net/pdf?id=shr9PXz7T0)
 
-- Look at the first sentence: Position bias in question answering
+- **Look at the first sentence: Position bias in question answering**
   
   EMNLP 2020 [**Paper**](https://aclanthology.org/2020.emnlp-main.84/)
 
-- Batch calibration: Rethinking calibration for in-context learning and prompt engineering
+- **Batch calibration: Rethinking calibration for in-context learning and prompt engineering**
   
   ICLR 2024 [**Paper**](https://openreview.net/pdf?id=L3FHMoKZcS)
 
-- Beyond Scalar Reward Model: Learning Generative Judge from Preference Data
+- **Beyond Scalar Reward Model: Learning Generative Judge from Preference Data**
   
   ICLR 2025 [**Paper**](https://arxiv.org/abs/2410.03742)
 
-- Large Language Models Are Zero-Shot Rankers for Recommender Systems
+- **Large Language Models Are Zero-Shot Rankers for Recommender Systems**
 
   ECIR 2024 [**Paper**](https://link.springer.com/chapter/10.1007/978-3-031-56060-6_24) 
 
-- Position bias in multiple-choice questions
+- **Position bias in multiple-choice questions**
 
   Journal of Marketing Research, 1984 [**Paper**](https://www.jstor.org/stable/3151704) 
 
-- JurEE not Judges: safeguarding llm interactions with small, specialised Encoder Ensembles
+- **JurEE not Judges: safeguarding llm interactions with small, specialised Encoder Ensembles**
 
   arXiv preprint, October 2024 [**Paper**](https://arxiv.org/abs/2410.08442) 
 
-- Split and merge: Aligning position biases in large language model based evaluators
+- **Split and merge: Aligning position biases in large language model based evaluators**
 
   EMNLP 2024 [**Paper**](https://aclanthology.org/2024.emnlp-main.621/)
 
-- Large language models are not fair evaluators
+- **Large language models are not fair evaluators**
 
   ACL 2024 [**Paper**](https://aclanthology.org/2024.acl-long.511/)
 
-- Debating with more persuasive LLMs leads to more truthful answers
+- **Debating with more persuasive LLMs leads to more truthful answers**
 
   International Conference on Learning Representations (ICLR) 2024 [**Paper**](https://openreview.net/forum?id=iLCZtl7FTa)
 
-- Position bias estimation for unbiased learning to rank in personal search
+- **Position bias estimation for unbiased learning to rank in personal search**
 
   ACM International Conference on Web Search and Data Mining (WSDM) 2018 [**Paper**](https://dl.acm.org/doi/pdf/10.1145/3159652.3159732)
 
-- PRD: Peer rank and discussion improve large language model based evaluations
+- **PRD: Peer rank and discussion improve large language model based evaluations**
 
   arXiv preprint, July 2023 [**Paper**](https://openreview.net/forum?id=CbmAtAmQla)
 
-- Humans or LLMs as the judge? A study on judgement biases
+- **Humans or LLMs as the judge? A study on judgement biases**
 
   EMNLP 2024 [**Paper**](https://aclanthology.org/2024.emnlp-main.474.pdf)
 
-- Is LLM-as-a-Judge Robust? Investigating Universal Adversarial Attacks on Zero-shot LLM Assessment
+- **Is LLM-as-a-Judge Robust? Investigating Universal Adversarial Attacks on Zero-shot LLM Assessment**
 
   EMNLP 2024 [**Paper**](https://aclanthology.org/2024.emnlp-main.427/)
 
-- Judging the Judges: A Systematic Investigation of Position Bias in Pairwise Comparative Assessments
+- **Judging the Judges: A Systematic Investigation of Position Bias in Pairwise Comparative Assessments**
 
   arXiv preprint, June 2024 [**Paper**](https://arxiv.org/html/2406.07791v5)
 
-- Generative judge for evaluating alignment
+- **Generative judge for evaluating alignment**
 
   International Conference on Learning Representations (ICLR) 2024 [**Paper**](https://openreview.net/forum?id=0kokhUetZ3)
 
-- Judging LLM-as-a-Judge with MT-Bench and Chatbot Arena
+- **Judging LLM-as-a-Judge with MT-Bench and Chatbot Arena**
 
   NeurIPS 2023 [**Paper**](https://papers.nips.cc/paper_files/paper/2023/hash/91f18a1287b398d378ef22505bf41832-Abstract-Datasets_and_Benchmarks.html) 
 
-- Justice or prejudice? quantifying biases in llm-as-a-judge
+- **Justice or prejudice? quantifying biases in llm-as-a-judge**
   NeurIPS 2024 Workshop SafeGenAi 2024 [**Paper**](https://openreview.net/pdf?id=wtscPS2zJH)
 ### 5.1.2 Social-Related Biases
 - Benchmarking cognitive biases in large language models as evaluators
