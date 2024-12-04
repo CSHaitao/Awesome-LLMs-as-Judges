@@ -1,21 +1,26 @@
-# Awesome-llm-as-judges
+# 🚀 Awesome-LLMs-as-Judges
 [![GitHub Sponsors](https://img.shields.io/badge/sponsors-GitHub-blue?logo=github&logoColor=white)](https://github.com/sponsors) ![Build Status](https://img.shields.io/badge/build-passing-brightgreen) ![License](https://img.shields.io/badge/license-MIT-yellow) ![Contributors](https://img.shields.io/badge/contributors-10-yellow) ![Awesome List](https://img.shields.io/badge/awesome-awesome-brightgreen) ![](https://img.shields.io/badge/PRs-Welcome-red)
 
-
-## Awesome-llm-as-judges: A Survey
-This repo include the papers discussed in our latest survey paper on Awesome-llm-as-judges.
+# 🌟 About This Repo
+This repo include the papers discussed in our latest survey paper on Awesome-LLMs-as-Judges.
 
 🔥: Read the full paper here: [Paper Link](xxx)
 
-## Reference
-If our survey is useful for your research, please kindly cite our [paper](https://arxiv.org/abs/xxx):
+[TOC]
+
+
+
+# 📖 Cite Our Work
+If our survey is useful for your research, we'd be thrilled if you could cite our [paper](https://arxiv.org/abs/xxx):
 ```
 在这里添加引用！
 ```
 
-## Overview of Awesome-llm-as-judges:
+# 📚 Overview of Awesome-LLMs-as-Judges
 ![Overview](./img/overview.png)
 ![limit](./img/limit.png)
+
+# 📑 PaperList
 
 # 1. Functionality
 
@@ -599,477 +604,476 @@ NNLP (Workshop) 2023. 132–137. [[Paper](https://arxiv.org/abs/2309.11325)]
 ### 4.1.1 Code Generation
 - **SWE-bench: Can Language Models Resolve Real-World GitHub Issues?**  
   
-  ICLR 2024 [**Paper**](https://arxiv.org/abs/2310.06770)
+  ICLR 2024 [[Paper](https://arxiv.org/abs/2310.06770)]
 
 - **CodeUltraFeedback: An LLM-as-a-Judge Dataset for Aligning Large Language Models to Coding Preferences**  
   
-  arXiv 2024 [**Paper**](https://arxiv.org/pdf/2403.09032)
+  arXiv 2024 [[Paper](https://arxiv.org/pdf/2403.09032)]
 
 - **Evaluating Large Language Models Trained on Code**  
   
-  arXiv 2021 [**Paper**](https://arxiv.org/abs/2107.03374)
+  arXiv 2021[[**Paper**](https://arxiv.org/abs/2107.03374)]
 
 - **Agent-as-a-Judge: Evaluate Agents with Agents**  
   
-  arXiv 2024 [**Paper**](https://arxiv.org/abs/2410.10934)
+  arXiv 2024 [[**Paper**](https://arxiv.org/abs/2410.10934)]
 
 - **CrossCodeEval: A Diverse and Multilingual Benchmark for Cross-File Code Completion**  
   
-  NeurIPS 2023 (Datasets and Benchmarks Track) [**Paper**](https://papers.nips.cc/paper_files/paper/2023/file/920f2dced7d32ab2ba2f1970bc306af6-Paper-Datasets_and_Benchmarks.pdf) 
+  NeurIPS 2023 (Datasets and Benchmarks Track) [[**Paper**](https://papers.nips.cc/paper_files/paper/2023/file/920f2dced7d32ab2ba2f1970bc306af6-Paper-Datasets_and_Benchmarks.pdf) ]
 ### 4.1.2 Machine Translation
 - **Experts, errors, and context: A large-scale study of human evaluation for machine translation**  
   
-  TACL 2021 [**Paper**](https://aclanthology.org/2021.tacl-1.87)
+  TACL 2021 [[**Paper**](https://aclanthology.org/2021.tacl-1.87)]
 
 - **Results of the WMT21 Metrics Shared Task: Evaluating Metrics with Expert-Based Human Evaluations on TED and News Domain**  
   
-  Proceedings of the Sixth Conference on Machine Translation (WMT), 2021 [**Paper**](https://aclanthology.org/2021.wmt-1.73/). 
+  Proceedings of the Sixth Conference on Machine Translation (WMT), 2021 [[**Paper**](https://aclanthology.org/2021.wmt-1.73/)]
 
 - **Large Language Models Effectively Leverage Document-Level Context for Literary Translation, but Critical Errors Persist**  
   
-  Proceedings of the Sixth Conference on Machine Translation (WMT), 2023 [**Paper**](https://aclanthology.org/2023.wmt-1.41/). 
+  Proceedings of the Sixth Conference on Machine Translation (WMT), 2023 [[**Paper**](https://aclanthology.org/2023.wmt-1.41/)]
 ### 4.1.3 Text Summarization
 - **Understanding Factuality in Abstractive Summarization with FRANK: A Benchmark for Factuality Metrics**  
   
-  NAACL 2021 [**Paper**](https://aclanthology.org/2021.naacl-main.383/). 
+  NAACL 2021 [[**Paper**](https://aclanthology.org/2021.naacl-main.383/)]
 
 - **SummEval: Re-evaluating Summarization Evaluation**  
   
-  Transactions of the Association for Computational Linguistics (TACL), 2021 [**Paper**](https://aclanthology.org/2021.tacl-1.24/). 
+  Transactions of the Association for Computational Linguistics (TACL), 2021 [[**Paper**](https://aclanthology.org/2021.tacl-1.24/)]
 
 - **Opinsummeval: Revisiting automated evaluation for opinion summarization**  
   
-  EMNLP 2023 [**Paper**](https://arxiv.org/abs/2310.18122)
+  EMNLP 2023 [[**Paper**](https://arxiv.org/abs/2310.18122)]
 ### 4.1.4 Dialogue Generation
 - **Topical-Chat: Towards Knowledge-Grounded Open-Domain Conversations**  
   
-  INTERSPEECH 2019 [**Paper**](https://arxiv.org/abs/2308.11995). 
+  INTERSPEECH 2019 [[**Paper**](https://arxiv.org/abs/2308.11995)]
 
 - **Automatic evaluation and moderation of open-domain dialogue systems**  
   
-  DSTC10 [**Paper**](https://arxiv.org/abs/2111.02110)
+  DSTC10 [[**Paper**](https://arxiv.org/abs/2111.02110)]
 
 - **Personalizing Dialogue Agents: I Have a Dog, Do You Have Pets Too?**  
   
-  ACL 2018 [**Paper**](https://aclanthology.org/P18-1205/). 
+  ACL 2018 [[**Paper**](https://aclanthology.org/P18-1205/)]
 
 - **USR: An Unsupervised and Reference-Free Evaluation Metric for Dialog Generation**  
   
-  ACL 2020 [**Paper**](https://aclanthology.org/2020.acl-main.64/). 
+  ACL 2020 [[**Paper**](https://aclanthology.org/2020.acl-main.64/)]
 
 - **Overview of the Tenth Dialog System Technology Challenge: DSTC10**  
   
-  IEEE/ACM Transactions on Audio, Speech, and Language Processing, 2023 [**Paper**](https://ieeexplore.ieee.org/document/10174647). 
+  IEEE/ACM Transactions on Audio, Speech, and Language Processing, 2023 [[**Paper**](https://ieeexplore.ieee.org/document/10174647)] 
 
 ### 4.1.5 Automatic Story Generation
 - **OpenMEVA: A Benchmark for Evaluating Open-ended Story Generation Metrics**  
   
-  ACL 2021 [**Paper**](https://aclanthology.org/2021.acl-long.500/). 
+  ACL 2021 [[**Paper**](https://aclanthology.org/2021.acl-long.500/)]
 
 - **Of Human Criteria and Automatic Metrics: A Benchmark of the Evaluation of Story Generation**  
   
-  COLING 2022 [**Paper**](https://aclanthology.org/2022.coling-1.509/). 
+  COLING 2022 [[**Paper**](https://aclanthology.org/2022.coling-1.509/)]
 
 - **Learning Personalized Story Evaluation**  
   
-  ICLR 2024 [**Paper**](https://openreview.net/forum?id=7AS7vaVU8d). 
+  ICLR 2024 [[**Paper**](https://openreview.net/forum?id=7AS7vaVU8d)]
 
 - **Hierarchical Neural Story Generation**  
   
-  ACL 2018 [**Paper**](https://aclanthology.org/P18-1082/). 
+  ACL 2018 [[**Paper**](https://aclanthology.org/P18-1082/)]
 
 - **A Corpus and Cloze Evaluation for Deeper Understanding of Commonsense Stories**  
   
-  NAACL 2016 [**Paper**](https://aclanthology.org/N16-1098/). 
+  NAACL 2016 [[**Paper**](https://aclanthology.org/N16-1098/)]
 
 - **StoryER: Automatic Story Evaluation via Ranking, Rating and Reasoning**  
   
-  EMNLP 2022 [**Paper**](https://aclanthology.org/2022.emnlp-main.114/). 
+  EMNLP 2022 [[**Paper**](https://aclanthology.org/2022.emnlp-main.114/)]
 ### 4.1.6 Values Alignment
 - **A general language assistant as a laboratory for alignment**
   
-  arXiv 2021 [**Paper**](https://arxiv.org/abs/2112.00861)
+  arXiv 2021 [[**Paper**](https://arxiv.org/abs/2112.00861)]
 
 - **PKU-SafeRLHF: Towards Multi-Level Safety Alignment for LLMs with Human Preference**  
 
-  arXiv 2024 [**Paper**](https://arxiv.org/abs/2406.15513)
+  arXiv 2024 [[**Paper**](https://arxiv.org/abs/2406.15513)]
 
 - **Cvalues: Measuring the values of Chinese large language models from safety to responsibility**  
   
-  arXiv 2023 [**Paper**](https://arxiv.org/abs/2307.09705)
+  arXiv 2023 [[**Paper**](https://arxiv.org/abs/2307.09705)]
 
 ### 4.1.7 Recommendation
 - **Large Language Models as Evaluators for Recommendation Explanations**  
-  RecSys 2024 [**Paper**](https://doi.org/10.1145/3640457.3688075)
+  RecSys 2024 [[**Paper**](https://doi.org/10.1145/3640457.3688075)]
 
 - **Yelp Dataset Challenge: Review Rating Prediction**  
   
-  arXiv 2016 [**Paper**](https://arxiv.org/abs/1605.05362). 
+  arXiv 2016 [[**Paper**](https://arxiv.org/abs/1605.05362)]
 
 - **The movielens datasets: History and context**  
   
-  TiiS 2016 [**Paper**](https://dl.acm.org/doi/10.1145/2827872)
+  TiiS 2016 [[**Paper**](https://dl.acm.org/doi/10.1145/2827872)]
 
 ### 4.1.8 Search
 - **Lecardv2: A large-scale chinese legal case retrieval dataset**
   
-  SIGIR 2024 [**Paper**](https://researchr.org/publication/LiSWAM024)
+  SIGIR 2024 [[**Paper**](https://researchr.org/publication/LiSWAM024)]
 - **Overview of the TREC 2021 Deep Learning Track**  
   
-  TREC 2021 [**Paper**](https://trec.nist.gov/pubs/trec30/papers/Overview-DL.pdf)
+  TREC 2021 [[**Paper**](https://trec.nist.gov/pubs/trec30/papers/Overview-DL.pdf)]
 
 - **Overview of the TREC 2023 NeuCLIR Track**
 
-  TREC 2023 [**Paper**](https://arxiv.org/abs/2404.08071)
+  TREC 2023 [[**Paper**](https://arxiv.org/abs/2404.08071)]
 
 - **Ms MARCO: A human generated machine reading comprehension dataset**
 
-  ICLR 2017 [**Paper**](https://openreview.net/forum?id=Hk1iOLcle)
+  ICLR 2017 [[**Paper**](https://openreview.net/forum?id=Hk1iOLcle)]
 
 - **Overview of the TREC 2022 Deep Learning Track**
 
-  Text REtrieval Conference (TREC) 2022 [**Paper**](https://trec.nist.gov/pubs/trec31/papers/Overview_deep.pdf)
+  Text REtrieval Conference (TREC) 2022 [[**Paper**](https://trec.nist.gov/pubs/trec31/papers/Overview_deep.pdf)]
 ### 4.1.9 Comprehensive Data
 - **Length-controlled alpacaeval: A simple way to debias automatic evaluators**
 
-  COLM 2024 [**Paper**](https://openreview.net/forum?id=CybBmzWBX0)
+  COLM 2024 [[**Paper**](https://openreview.net/forum?id=CybBmzWBX0)]
 
 - **Helpsteer: Multi-attribute helpfulness dataset for steerlm**  
   
-  NAACL 2024 [**Paper**](https://researchr.org/publication/WangDZASEDSKSK24)
+  NAACL 2024 [[**Paper**](https://researchr.org/publication/WangDZASEDSKSK24)]
 
 - **ULTRAFEEDBACK: Boosting Language Models with Scaled AI Feedback**
   
-  ICML 2024 [**Paper**](https://openreview.net/forum?id=BOorDpKHiJ)
+  ICML 2024 [[**Paper**](https://openreview.net/forum?id=BOorDpKHiJ)]
 
 - **Helpsteer2-preference: Complementing ratings with preferences**  
   
-  CoRR 2024 [**Paper**](https://arxiv.org/abs/2410.01257)
+  CoRR 2024 [[**Paper**](https://arxiv.org/abs/2410.01257)]
   
 - **Enhancing Chat Language Models by Scaling High-quality Instructional Conversations**
 
-  EMNLP 2023 [**Paper**](https://aclanthology.org/2023.emnlp-main.183/)
+  EMNLP 2023 [[**Paper**](https://aclanthology.org/2023.emnlp-main.183/)]
 
 - **RewardBench: Evaluating Reward Models for Language Modeling**
 
-  arXiv preprint, March 2024 [**Paper**](https://arxiv.org/abs/2403.13787)
+  arXiv preprint, March 2024 [[**Paper**](https://arxiv.org/abs/2403.13787)]
 
 - **FLASK: Fine-grained Language Model Evaluation based on Alignment Skill Sets**
 
-  ICLR 2024 [**Paper**](https://arxiv.org/abs/2307.10928)
+  ICLR 2024 [[**Paper**](https://arxiv.org/abs/2307.10928)]
 
 - **RM-Bench: Benchmarking Reward Models of Language Models with Subtlety and Style**  
   
-  ICLR 2025 [**Paper**](https://openreview.net/forum?id=QEHrmQPBdd)
+  ICLR 2025 [[**Paper**](https://openreview.net/forum?id=QEHrmQPBdd)]
 
 - **MLLM-as-a-Judge: Assessing Multimodal LLM-as-a-Judge with Vision-Language Benchmark**  
   
-  ICML 2024 [**Paper**](https://proceedings.mlr.press/v235/chen24h.html).
+  ICML 2024 [[**Paper**](https://proceedings.mlr.press/v235/chen24h.html)]
 
 - **MM-Eval: A Multilingual Meta-Evaluation Benchmark for LLM-as-a-Judge and Reward Models**  
   
-  arXiv 2024 [**Paper**](https://www.catalyzex.com/paper/mm-eval-a-multilingual-meta-evaluation).
+  arXiv 2024 [[**Paper**](https://www.catalyzex.com/paper/mm-eval-a-multilingual-meta-evaluation)]
 
 - **TruthfulQA: Measuring How Models Mimic Human Falsehoods**  
   
-  arXiv 2021 [**Paper**](https://arxiv.org/abs/2109.07958). 
+  arXiv 2021 [[**Paper**](https://arxiv.org/abs/2109.07958)]
 
 - **CompassJudger-1: All-in-one Judge Model Helps Model Evaluation and Evolution**  
   
-  arXiv 2024 [**Paper**](https://arxiv.org/abs/2410.16256). 
+  arXiv 2024[ [**Paper**](https://arxiv.org/abs/2410.16256)]
 
 - **Judging LLM-as-a-Judge with MT-Bench and Chatbot Arena**  
   
-  NeurIPS 2023 [**Paper**](https://openreview.net/forum?id=RAW0XaE5nq). 
+  NeurIPS 2023 [[**Paper**](https://openreview.net/forum?id=RAW0XaE5nq)]
 
 - **WildBench: Benchmarking LLMs with Challenging Tasks from Real Users in the Wild**  
 
-  arXiv 2024 [**Paper**](https://arxiv.org/abs/2406.04770). 
+  arXiv 2024 [[**Paper**](https://arxiv.org/abs/2406.04770)]
 
 - **JudgeBench: A Benchmark for Evaluating LLM-based Judges**  
   
-  arXiv 2024 [**Paper**](https://arxiv.org/abs/2410.12784). 
+  arXiv 2024 [[**Paper**](https://arxiv.org/abs/2410.12784)]
 
 - **Vicuna: An Open-Source Chatbot Impressing GPT-4 with 90%* ChatGPT Quality**  
   
-  LMSYS Org 2023 [**Paper**](https://lmsys.org/blog/2023-03-30-vicuna/). 
+  LMSYS Org 2023 [[**Paper**](https://lmsys.org/blog/2023-03-30-vicuna/)]
 ## 4.2 Metric
 - **Pearson correlation coefficient**  
   
-  Philosophical Transactions of the Royal Society of London, 1895 [**Paper**](https://link.springer.com/content/pdf/10.1007/978-3-642-00296-0_5.pdf).
+  Philosophical Transactions of the Royal Society of London, 1895 [[**Paper**](https://link.springer.com/content/pdf/10.1007/978-3-642-00296-0_5.pdf)]
 
 - **Spearman’s rank correlation coefficient**  
   
-  The American Journal of Psychology, 1904 [**Paper**](https://www.researchgate.net/profile/Philip-Sedgwick/publication/268986657_Spearman's_rank_correlation_coefficient/links/5d4d54654585153e5947cc61/Spearmans-rank-correlation-coefficient.pdf).
+  The American Journal of Psychology, 1904 [[**Paper**](https://www.researchgate.net/profile/Philip-Sedgwick/publication/268986657_Spearman's_rank_correlation_coefficient/links/5d4d54654585153e5947cc61/Spearmans-rank-correlation-coefficient.pdf)]
 
 - **Estimates of the regression coefficient based on Kendall's tau**  
   
-  Journal of the American Statistical Association, 1968 [**Paper**](https://www.jstor.org/stable/2285891).
+  Journal of the American Statistical Association, 1968[[**Paper**](https://www.jstor.org/stable/2285891)]
 
 - **The Intraclass Correlation Coefficient as a Measure of Reliability**  
   
-  Psychological reports, 1966 [**Paper**](https://journals.sagepub.com/doi/abs/10.2466/pr0.1966.19.1.3). 
+  Psychological reports, 1966 [[**Paper**](https://journals.sagepub.com/doi/abs/10.2466/pr0.1966.19.1.3)]
 
 - **Five ways to look at Cohen's kappa**  
   
-   Journal of Psychology & Psychotherapy, 2015 [**Paper**](https://pure.rug.nl/ws/portalfiles/portal/40110949/Warrens_2015_PP_5_197.pdf).
+   Journal of Psychology & Psychotherapy, 2015 [[**Paper**](https://pure.rug.nl/ws/portalfiles/portal/40110949/Warrens_2015_PP_5_197.pdf)]
 
 # 5. LIMITATION
 ## 5.1 Biases
 ### 5.1.1 Presentation-Related Biases
 - **Large language models are not robust multiple choice selectors**
   
-  ICLR 2024 [**Paper**](https://openreview.net/pdf?id=shr9PXz7T0)
+  ICLR 2024 [[**Paper**](https://openreview.net/pdf?id=shr9PXz7T0)]
 
 - **Look at the first sentence: Position bias in question answering**
   
-  EMNLP 2020 [**Paper**](https://aclanthology.org/2020.emnlp-main.84/)
+  EMNLP 2020 [[**Paper**](https://aclanthology.org/2020.emnlp-main.84/)]
 
 - **Batch calibration: Rethinking calibration for in-context learning and prompt engineering**
   
-  ICLR 2024 [**Paper**](https://openreview.net/pdf?id=L3FHMoKZcS)
+  ICLR 2024 [[**Paper**](https://openreview.net/pdf?id=L3FHMoKZcS)]
 
 - **Beyond Scalar Reward Model: Learning Generative Judge from Preference Data**
   
-  ICLR 2025 [**Paper**](https://arxiv.org/abs/2410.03742)
+  ICLR 2025 [[**Paper**](https://arxiv.org/abs/2410.03742)]
 
 - **Large Language Models Are Zero-Shot Rankers for Recommender Systems**
 
-  ECIR 2024 [**Paper**](https://link.springer.com/chapter/10.1007/978-3-031-56060-6_24) 
+  ECIR 2024 [[**Paper**](https://link.springer.com/chapter/10.1007/978-3-031-56060-6_24) ]
 
 - **Position bias in multiple-choice questions**
 
-  Journal of Marketing Research, 1984 [**Paper**](https://www.jstor.org/stable/3151704) 
+  Journal of Marketing Research, 1984 [[**Paper**](https://www.jstor.org/stable/3151704) ]
 
 - **JurEE not Judges: safeguarding llm interactions with small, specialised Encoder Ensembles**
 
-  arXiv preprint, October 2024 [**Paper**](https://arxiv.org/abs/2410.08442) 
+  arXiv preprint, October 2024 [[**Paper**](https://arxiv.org/abs/2410.08442) ]
 
 - **Split and merge: Aligning position biases in large language model based evaluators**
 
-  EMNLP 2024 [**Paper**](https://aclanthology.org/2024.emnlp-main.621/)
+  EMNLP 2024 [[**Paper**](https://aclanthology.org/2024.emnlp-main.621/)]
 
 - **Large language models are not fair evaluators**
 
-  ACL 2024 [**Paper**](https://aclanthology.org/2024.acl-long.511/)
+  ACL 2024 [[**Paper**](https://aclanthology.org/2024.acl-long.511/)]
 
 - **Debating with more persuasive LLMs leads to more truthful answers**
 
-  International Conference on Learning Representations (ICLR) 2024 [**Paper**](https://openreview.net/forum?id=iLCZtl7FTa)
+  International Conference on Learning Representations (ICLR) 2024 [[**Paper**](https://openreview.net/forum?id=iLCZtl7FTa)]
 
 - **Position bias estimation for unbiased learning to rank in personal search**
 
-  ACM International Conference on Web Search and Data Mining (WSDM) 2018 [**Paper**](https://dl.acm.org/doi/pdf/10.1145/3159652.3159732)
+  ACM International Conference on Web Search and Data Mining (WSDM) 2018[ [**Paper**](https://dl.acm.org/doi/pdf/10.1145/3159652.3159732)]
 
 - **PRD: Peer rank and discussion improve large language model based evaluations**
 
-  arXiv preprint, July 2023 [**Paper**](https://openreview.net/forum?id=CbmAtAmQla)
+  arXiv preprint, July 2023 [[**Paper**](https://openreview.net/forum?id=CbmAtAmQla)]
 
 - **Humans or LLMs as the judge? A study on judgement biases**
 
-  EMNLP 2024 [**Paper**](https://aclanthology.org/2024.emnlp-main.474.pdf)
+  EMNLP 2024 [[**Paper**](https://aclanthology.org/2024.emnlp-main.474.pdf)]
 
 - **Is LLM-as-a-Judge Robust? Investigating Universal Adversarial Attacks on Zero-shot LLM Assessment**
 
-  EMNLP 2024 [**Paper**](https://aclanthology.org/2024.emnlp-main.427/)
+  EMNLP 2024 [[**Paper**](https://aclanthology.org/2024.emnlp-main.427/)]
 
 - **Judging the Judges: A Systematic Investigation of Position Bias in Pairwise Comparative Assessments**
 
-  arXiv preprint, June 2024 [**Paper**](https://arxiv.org/html/2406.07791v5)
+  arXiv preprint, June 2024 [[**Paper**](https://arxiv.org/html/2406.07791v5)]
 
 - **Generative judge for evaluating alignment**
 
-  International Conference on Learning Representations (ICLR) 2024 [**Paper**](https://openreview.net/forum?id=0kokhUetZ3)
+  International Conference on Learning Representations (ICLR) 2024 [[**Paper**](https://openreview.net/forum?id=0kokhUetZ3)]
 
 - **Judging LLM-as-a-Judge with MT-Bench and Chatbot Arena**
 
-  NeurIPS 2023 [**Paper**](https://papers.nips.cc/paper_files/paper/2023/hash/91f18a1287b398d378ef22505bf41832-Abstract-Datasets_and_Benchmarks.html) 
+  NeurIPS 2023[ [**Paper**](https://papers.nips.cc/paper_files/paper/2023/hash/91f18a1287b398d378ef22505bf41832-Abstract-Datasets_and_Benchmarks.html) ]
 
 - **Justice or prejudice? quantifying biases in llm-as-a-judge**
   
-  NeurIPS 2024 Workshop SafeGenAi 2024 [**Paper**](https://openreview.net/pdf?id=wtscPS2zJH)
+  NeurIPS 2024 Workshop SafeGenAi 2024 [[**Paper**](https://openreview.net/pdf?id=wtscPS2zJH)]
 ### 5.1.2 Social-Related Biases
 
 - **Benchmarking Cognitive Biases in Large Language Models as Evaluators**
 
-  Findings of ACL 2024 [**Paper**](https://aclanthology.org/2024.findings-acl.29/)
+  Findings of ACL 2024 [[**Paper**](https://aclanthology.org/2024.findings-acl.29/)]
 
 - **Justice or Prejudice? Quantifying Biases in LLM-as-a-Judge**
 
-  SFLLM Workshop @ NeurIPS 2024 [**Paper**](https://arxiv.org/abs/2410.02736)
+  SFLLM Workshop @ NeurIPS 2024 [[**Paper**](https://arxiv.org/abs/2410.02736)]
 
 - **Humans or LLMs as the Judge? A Study on Judgement Bias**
 
-  EMNLP 2024 [**Paper**](https://aclanthology.org/2024.emnlp-main.474/) 
+  EMNLP 2024 [[**Paper**](https://aclanthology.org/2024.emnlp-main.474/) ]
 ### 5.1.3 Content-Related Biases
 - **Calibrate Before Use: Improving Few-Shot Performance of Language Models**
 
-  ICML 2021 [**Paper**](https://arxiv.org/pdf/2102.09690)
+  ICML 2021[ [**Paper**](https://arxiv.org/pdf/2102.09690)]
 
 - **Mitigating Label Biases for In-Context Learning**
 
-  ACL 2023 [**Paper**](https://aclanthology.org/2023.acl-long.783/)
+  ACL 2023 [[**Paper**](https://aclanthology.org/2023.acl-long.783/)]
 
 - **Prototypical Calibration for Few-Shot Learning of Language Models**
 
-  ICLR 2023 [**Paper**](https://openreview.net/forum?id=0VWe0yBPxg)
+  ICLR 2023 [[**Paper**](https://openreview.net/forum?id=0VWe0yBPxg)]
 
 - **Justice or Prejudice? Quantifying Biases in LLM-as-a-Judge**
 
-  SFLLM Workshop @ NeurIPS 2024 [**Paper**](https://arxiv.org/abs/2410.02736)
+  SFLLM Workshop @ NeurIPS 2024 [[**Paper**](https://arxiv.org/abs/2410.02736)]
 
 - **Are Large Language Models Rational Investors?**
 
-  arXiv preprint 2024 [**Paper**](https://arxiv.org/html/2402.12713v1)
+  arXiv preprint 2024 [[**Paper**](https://arxiv.org/html/2402.12713v1)]
 
 - **Bias Patterns in the Application of LLMs for Clinical Decision Support: A Comprehensive Study**
 
-  arXiv preprint 2024 [**Paper**](https://arxiv.org/html/2404.15149)
+  arXiv preprint 2024 [[**Paper**](https://arxiv.org/html/2404.15149)]
 
 - **Batch Calibration: Rethinking Calibration for In-Context Learning and Prompt Engineering**
 
-  ICLR 2024 [**Paper**](https://openreview.net/pdf?id=SkEG9q1Rtw) 
+  ICLR 2024 [[**Paper**](https://openreview.net/pdf?id=SkEG9q1Rtw) ]
 ### 5.1.4 Cognitive-Related Biases
 - **Justice or Prejudice? Quantifying Biases in LLM-as-a-Judge**
 
-  SFLLM Workshop @ NeurIPS 2024 [**Paper**](https://arxiv.org/abs/2410.02736)
+  SFLLM Workshop @ NeurIPS 2024 [[**Paper**](https://arxiv.org/abs/2410.02736)]
 
 - **Large Language Models Can Be Easily Distracted by Irrelevant Context**  
   
-  ICML 2023 [**Paper**](https://openreview.net/forum?id=JSZmoN03Op)
+  ICML 2023 [[**Paper**](https://openreview.net/forum?id=JSZmoN03Op)]
 
 - **Reference-Guided Verdict: LLMs-as-Judges in Automatic Evaluation of Free-Form Text**  
   
-  ACL ARR 2024 [**Paper**](https://openreview.net/forum?id=kv1QO17Mba)
+  ACL ARR 2024 [[**Paper**](https://openreview.net/forum?id=kv1QO17Mba)]
 
 - **PRD: Peer rank and discussion improve large language model based evaluations**
 
-  arXiv preprint, July 2023 [**Paper**](https://openreview.net/forum?id=CbmAtAmQla)
+  arXiv preprint, July 2023 [[**Paper**](https://openreview.net/forum?id=CbmAtAmQla)]
 
 - **Trust or Escalate: LLM Judges with Provable Guarantees for Human Agreement**  
   
-  arXiv preprint, July 2024 [**Paper**](https://arxiv.org/abs/2407.18370) 
+  arXiv preprint, July 2024 [[**Paper**](https://arxiv.org/abs/2407.18370) ]
 
 - **Pride and Prejudice: LLM Amplifies Self-Bias in Self-Refinement**
 
-  ACL 2024 [**Paper**](https://aclanthology.org/2024.acl-long.826/)
+  ACL 2024 [[**Paper**](https://aclanthology.org/2024.acl-long.826/)]
 
 - **Humans or LLMs as the Judge? A Study on Judgement Biases**
 
-  arXiv preprint 2024 [**Paper**](https://arxiv.org/abs/2402.10669)
+  arXiv preprint 2024 [[**Paper**](https://arxiv.org/abs/2402.10669)]
 
 - **Evaluations of Self and Others: Self-Enhancement Biases in Social Judgments**  
   
-  Social Cognition 1986 [**Paper**](https://doi.org/10.1521/soco.1986.4.4.353)
+  Social Cognition 1986 [[**Paper**](https://doi.org/10.1521/soco.1986.4.4.353)]
 
 - **Judging LLM-as-a-Judge with MT-Bench and Chatbot Arena**
 
-  arXiv preprint 2023 [**Paper**](https://arxiv.org/abs/2306.05685)
+  arXiv preprint 2023 [[**Paper**](https://arxiv.org/abs/2306.05685)]
 
 - **G-Eval: NLG Evaluation Using GPT-4 with Better Human Alignment**  
   
-  EMNLP 2023 [**Paper**](https://aclanthology.org/2023.emnlp-main.153)
+  EMNLP 2023 [[**Paper**](https://aclanthology.org/2023.emnlp-main.153)]
 
 - **Benchmarking Cognitive Biases in Large Language Models as Evaluators**
 
-  Findings of ACL 2024 [**Paper**](https://aclanthology.org/2024.findings-acl.29/)
+  Findings of ACL 2024 [[**Paper**](https://aclanthology.org/2024.findings-acl.29/)]
 
 - **Debating with More Persuasive LLMs Leads to More Truthful Answers**  
   
-  ICML 2024 [**Paper**](https://proceedings.mlr.press/v235/khan24a.html)
+  ICML 2024 [[**Paper**](https://proceedings.mlr.press/v235/khan24a.html)]
 ## 5.2 Adversarial Attacks
 ### 5.2.1 Adversarial Attacks on LLMs
 - **HotFlip: White-Box Adversarial Examples for Text Classification**
 
-  ACL 2018 [**Paper**](https://aclanthology.org/P18-2006/)
+  ACL 2018[ [Paper](https://aclanthology.org/P18-2006/)]
 
 - **Query-Efficient and Scalable Black-Box Adversarial Attacks on Discrete Sequential Data via Bayesian Optimization**
 
-  ICML 2022 [**Paper**](https://proceedings.mlr.press/v162/lee22h.html)
+  ICML 2022 [[**Paper**](https://proceedings.mlr.press/v162/lee22h.html)]
 
 - **Adv-BERT: BERT is Not Robust on Misspellings! Generating Natural Adversarial Samples on BERT**  
   
-  arXiv 2020 [**Paper**](https://arxiv.org/abs/2003.04985)
+  arXiv 2020 [[**Paper**](https://arxiv.org/abs/2003.04985)]
 
 - **An LLM Can Fool Itself: A Prompt-Based Adversarial Attack**
 
-  ICLR 2024 [**Paper**](https://openreview.net/forum?id=0Q5e1C4kgM)
+  ICLR 2024 [[**Paper**](https://openreview.net/forum?id=0Q5e1C4kgM)]
 
 - **Natural Backdoor Attack on Text Data**
   
-  arXiv 2020 [**Paper**](https://arxiv.org/pdf/2006.16176)
+  arXiv 2020 [[**Paper**](https://arxiv.org/pdf/2006.16176)]
 
 - **Ignore Previous Prompt: Attack Techniques for Language Models**
 
-  arXiv 2022 [**Paper**](https://arxiv.org/abs/2211.09527)
+  arXiv 2022 [[**Paper**](https://arxiv.org/abs/2211.09527)]
 
 - **Prompt Packer: Deceiving LLMs through Compositional Instruction with Hidden Attacks**  
   
-  arXiv 2023 [**Paper**](https://arxiv.org/pdf/2310.10077)  
+  arXiv 2023 [[**Paper**](https://arxiv.org/pdf/2310.10077)]
 
 - **Evaluating the Susceptibility of Pre-Trained Language Models via Handcrafted Adversarial Examples**  
   
-  arXiv 2022 [**Paper**](https://arxiv.org/abs/2209.02128)
+  arXiv 2022[ [**Paper**](https://arxiv.org/abs/2209.02128)]
 ### 5.2.2 Adversarial Attacks on LLMs-as-Judges
 - **Cheating Automatic LLM Benchmarks: Null Models Achieve High Win Rates**  
- 
-  SafeGenAI @ NeurIPS 2024 [**Paper**](https://arxiv.org/abs/2410.07137)  
+
+  SafeGenAI @ NeurIPS 2024 [[**Paper**](https://arxiv.org/abs/2410.07137)]
 
 - **Optimization-based Prompt Injection Attack to LLM-as-a-Judge**  
   
-  arXiv 2024 [**Paper**](https://arxiv.org/pdf/2403.17710)  
+  arXiv 2024 [[**Paper**](https://arxiv.org/pdf/2403.17710)]
 
 - **Finding Blind Spots in Evaluator LLMs with Interpretable Checklists**  
   
-  EMNLP 2024 [**Paper**](https://aclanthology.org/2024.emnlp-main.911/)  
+  EMNLP 2024 [[**Paper**](https://aclanthology.org/2024.emnlp-main.911/)]
 
 - **Judging LLM-as-a-Judge with MT-Bench and Chatbot Arena**  
- 
-  NeurIPS 2023 Datasets and Benchmarks Track [**Paper**](https://papers.nips.cc/paper_files/paper/2023/hash/91f18a1287b398d378ef22505bf41832-Abstract-Datasets_and_Benchmarks.html)  
+
+  NeurIPS 2023 Datasets and Benchmarks Track [[**Paper**](https://papers.nips.cc/paper_files/paper/2023/hash/91f18a1287b398d378ef22505bf41832-Abstract-Datasets_and_Benchmarks.html)]
 
 - **Scaling Instruction-Finetuned Language Models**  
   
-  Journal of Machine Learning Research 2024 [**Paper**](https://jmlr.org/papers/v25/23-0870.html)  
+  Journal of Machine Learning Research 2024 [[**Paper**](https://jmlr.org/papers/v25/23-0870.html)]  
 
 - **Is LLM-as-a-Judge Robust? Investigating Universal Adversarial Attacks on Zero-shot LLM Assessment**  
   
-  EMNLP 2024 [**Paper**](https://aclanthology.org/2024.emnlp-main.427/)  
+  EMNLP 2024 [[**Paper**](https://aclanthology.org/2024.emnlp-main.427/)]
 ## 5.3 Inherent Weaknesses
 ### 5.3.1 Knowledge Recency
 - **Retrieval-Augmented Generation for Large Language Models: A Survey**  
   
-  arXiv 2023 [**Paper**](https://arxiv.org/pdf/2312.10997)
+  arXiv 2023 [[**Paper**](https://arxiv.org/pdf/2312.10997)]
 
 - **Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks**  
- 
-  NeurIPS 2020 [**Paper**](https://proceedings.neurips.cc/paper/2020/file/6b493230205f780e1bc26945df7481e5-Paper.pdf)
+
+  NeurIPS 2020 [[**Paper**](https://proceedings.neurips.cc/paper/2020/file/6b493230205f780e1bc26945df7481e5-Paper.pdf)]
 
 - **An Empirical Study of Catastrophic Forgetting in Large Language Models During Continual Fine-Tuning**  
   
-  arXiv 2023 [**Paper**](https://arxiv.org/abs/2308.08747)
+  arXiv 2023 [[**Paper**](https://arxiv.org/abs/2308.08747)]
 
 - **Continual Learning for Large Language Models: A Survey**  
   
-  arXiv 2024 [**Paper**](https://arxiv.org/abs/2402.01364)
+  arXiv 2024 [[**Paper**](https://arxiv.org/abs/2402.01364)]
 
 - **Striking the Balance in Using LLMs for Fact-Checking: A Narrative Literature Review**  
   
-  MISDOOM 2024 [**Paper**](https://link.springer.com/chapter/10.1007/978-3-031-71210-4_1) 
+  MISDOOM 2024 [[**Paper**](https://link.springer.com/chapter/10.1007/978-3-031-71210-4_1)]
 ### 5.3.2 Hallucination
 - **Striking the Balance in Using LLMs for Fact-Checking: A Narrative Literature Review**  
   
-  MISDOOM 2024 [**Paper**](https://link.springer.com/chapter/10.1007/978-3-031-71210-4_1) 
+  MISDOOM 2024 [[**Paper**](https://link.springer.com/chapter/10.1007/978-3-031-71210-4_1)] 
   
 ### 5.3.3 Domain-Specific Knowledge Gaps
 - **Knowledge Solver: Teaching LLMs to Search for Domain Knowledge from Knowledge Graphs**  
 
-  arXiv 2023 [**Paper**](https://arxiv.org/pdf/2309.03118)
+  arXiv 2023 [[**Paper**](https://arxiv.org/pdf/2309.03118)]
 
 - **Unifying Large Language Models and Knowledge Graphs: A Roadmap**  
 
-  arXiv 2023 [**Paper**](https://arxiv.org/pdf/2306.08302)
+  arXiv 2023 [[**Paper**](https://arxiv.org/pdf/2306.08302)]
 
 - **Retrieval-Augmented Generation for Large Language Models: A Survey**  
 
-  arXiv 2023 [**Paper**](https://arxiv.org/pdf/2312.10997)
-
+  arXiv 2023 [[**Paper**](https://arxiv.org/pdf/2312.10997)]
