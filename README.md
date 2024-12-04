@@ -24,7 +24,7 @@ If our survey is useful for your research, please kindly cite our [paper](https:
 ### 1.1.2 Model Evaluation
 
 ## 1.2 Model Enhancement
-### 1.2.1 Reward Modeling During Training.
+### 1.2.1 Reward Modeling During Training
 ### 1.2.2 Acting as Verifier During Inference
 ### 1.2.3 Feedback for Refinement
 
@@ -45,11 +45,11 @@ If our survey is useful for your research, please kindly cite our [paper](https:
 ### 2.1.2.2 Preference-based Learning
 
 ### 2.1.3 Post-processing
-### 2.1.3.1 Probability Calibration.
+### 2.1.3.1 Probability Calibration
 ### 2.1.3.2 Text Reprocessing
 
 ## 2.2 Multi-LLM System
-### 2.2.1 Communication. 
+### 2.2.1 Communication
 #### 2.2.1.1 Cooperation
 #### 2.2.1.2 Competition
 
@@ -70,13 +70,13 @@ If our survey is useful for your research, please kindly cite our [paper](https:
 # 4. META-EVALUATION
 ## 4.1 Benchmarks
 ### 4.1.1 Code Generation
-### 4.1.2 Machine Translation.
-### 4.1.3 Text Summarization.
-### 4.1.4 Dialogue Generation.
-### 4.1.5 Automatic Story Generation.
-### 4.1.6 Values alignment.
-### 4.1.7 Recommendation.
-### 4.1.8 Search.
+### 4.1.2 Machine Translation
+### 4.1.3 Text Summarization
+### 4.1.4 Dialogue Generation
+### 4.1.5 Automatic Story Generation
+### 4.1.6 Values Alignment
+### 4.1.7 Recommendation
+### 4.1.8 Search
 ### 4.1.9 Comprehensive Data
 ## 4.2 Metric
 
@@ -85,15 +85,15 @@ If our survey is useful for your research, please kindly cite our [paper](https:
 ## 5.1 Biases
 ### 5.1.1 Presentation-Related Biases
 ### 5.1.2 Social-Related Biases
-### 5.1.3 Content-Related Biases. 
-### 5.1.4 Cognitive-Related Biases.
+### 5.1.3 Content-Related Biases
+### 5.1.4 Cognitive-Related Biases
 
 ## 5.2 Adversarial Attacks
 ### 5.2.1 Adversarial Attacks on LLMs
 ### 5.2.2 Adversarial Attacks on LLMs-as-Judges
 
 ## 5.3 Inherent Weaknesses
-### 5.3.1 Knowledge Recency.
+### 5.3.1 Knowledge Recency
 ### 5.3.2 Hallucination
-### 5.3.3 Domain-Specific Knowledge Gaps.
+### 5.3.3 Domain-Specific Knowledge Gaps
 
