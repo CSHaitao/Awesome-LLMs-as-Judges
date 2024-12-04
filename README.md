@@ -11,11 +11,11 @@ This repo include the papers discussed in our latest survey paper on Awesome-LLM
 
 🔥🔥 News: 2024/11/10: 我们完成了项目的基础工作，并整理写作了初版论文。
 
-# 🧾 Contents
+# 🌳 Contents
 - [🚀 Awesome-LLMs-as-Judges](#-awesome-llms-as-judges)
 - [🌟 About This Repo](#-about-this-repo)
 - [Update](#update)
-- [🧾 Contents](#-contents)
+- [🌳 Contents](#-contents)
 - [📖 Cite Our Work](#-cite-our-work)
 - [📚 Overview of Awesome-LLMs-as-Judges](#-overview-of-awesome-llms-as-judges)
 - [📑 PaperList](#-paperlist)
