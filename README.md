@@ -6,7 +6,7 @@ This repo include the papers discussed in our latest survey paper on Awesome-LLM
 
 📝: Read the full paper here: [Paper Link](xxx)
 
-# Update
+# ⚡️ Update
 🔥🔥 News: 2024/12/05: 我们完成了项目的绝大部分工作，并发布了第一版完整论文。
 
 🔥🔥 News: 2024/11/10: 我们完成了项目的基础工作，并整理写作了初版论文。
@@ -14,7 +14,7 @@ This repo include the papers discussed in our latest survey paper on Awesome-LLM
 # 🌳 Contents
 - [🚀 Awesome-LLMs-as-Judges](#-awesome-llms-as-judges)
 - [🌟 About This Repo](#-about-this-repo)
-- [Update](#update)
+- [⚡️ Update](#️-update)
 - [🌳 Contents](#-contents)
 - [📖 Cite Our Work](#-cite-our-work)
 - [📚 Overview of Awesome-LLMs-as-Judges](#-overview-of-awesome-llms-as-judges)
