@@ -36,6 +36,16 @@ If our survey is useful for your research, please kindly cite our [paper](https:
 ## 2.1 Single-LLM System
 ### 2.1.1 Prompt-based
 #### 2.1.1.1 In-Context Learning
+- A survey on in-context learning
+arXiv 2022 [Paper](https://arxiv.org/abs/2301.00234)
+- Gptscore: Evaluate as you desire
+arXiv 2023 [Paper](https://arxiv.org/abs/2302.04166)
+- Llm-eval: Unified multi-dimensional automatic evaluation for open-domain conversations with large language models
+NLP4ConvAI 2023 [Paper](https://arxiv.org/abs/2305.13711)
+- TALEC: Teach Your LLM to Evaluate in Specific Domain with In-house Criteria by Criteria Division and Zero-shot Plus Few-shot
+arXiv 2024 [Paper](https://arxiv.org/abs/2407.10999)
+- Multi-dimensional evaluation of text summarization with in-context learning
+ACL Findings '23 [Paper](https://arxiv.org/abs/2306.01200)
 #### 2.1.1.2 Step-by-step
 #### 2.1.1.3 Definition Augmentation
 #### 2.1.1.4 Multi-turn Optimization
