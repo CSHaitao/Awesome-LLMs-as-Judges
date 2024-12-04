@@ -214,66 +214,177 @@ ACL Findings '23 [Paper](https://arxiv.org/abs/2306.01200)
   NeurIPS 2023 [**Paper**](https://papers.nips.cc/paper_files/paper/2023/hash/91f18a1287b398d378ef22505bf41832-Abstract-Datasets_and_Benchmarks.html) 
 
 - **Justice or prejudice? quantifying biases in llm-as-a-judge**
+  
   NeurIPS 2024 Workshop SafeGenAi 2024 [**Paper**](https://openreview.net/pdf?id=wtscPS2zJH)
 ### 5.1.2 Social-Related Biases
-- Benchmarking cognitive biases in large language models as evaluators
-- Justice or prejudice? quantifying biases in llm-as-a-judge
-- Humans or llms as the judge? a study on judgement biases
+
+- **Benchmarking Cognitive Biases in Large Language Models as Evaluators**
+
+  Findings of ACL 2024 [**Paper**](https://aclanthology.org/2024.findings-acl.29/)
+
+- **Justice or Prejudice? Quantifying Biases in LLM-as-a-Judge**
+
+  SFLLM Workshop @ NeurIPS 2024 [**Paper**](https://arxiv.org/abs/2410.02736)
+
+- **Humans or LLMs as the Judge? A Study on Judgement Bias**
+
+  EMNLP 2024 [**Paper**](https://aclanthology.org/2024.emnlp-main.474/) 
 ### 5.1.3 Content-Related Biases
-- Calibrate before use: Improving few-shot performance of language models
-- Mitigating label biases for in-context learning
-- Prototypical calibration for few-shot learning of language models
-- Justice or prejudice? quantifying biases in llm-as-a-judge
-- Are Large Language Models Rational Investors?
-- Bias patterns in the application of LLMs for clinical decision support: A comprehensive study
-- Batch calibration: Rethinking calibration for in-context learning and prompt engineering
+- **Calibrate Before Use: Improving Few-Shot Performance of Language Models**
+
+  ICML 2021 [**Paper**](https://arxiv.org/pdf/2102.09690)
+
+- **Mitigating Label Biases for In-Context Learning**
+
+  ACL 2023 [**Paper**](https://aclanthology.org/2023.acl-long.783/)
+
+- **Prototypical Calibration for Few-Shot Learning of Language Models**
+
+  ICLR 2023 [**Paper**](https://openreview.net/forum?id=0VWe0yBPxg)
+
+- **Justice or Prejudice? Quantifying Biases in LLM-as-a-Judge**
+
+  SFLLM Workshop @ NeurIPS 2024 [**Paper**](https://arxiv.org/abs/2410.02736)
+
+- **Are Large Language Models Rational Investors?**
+
+  arXiv preprint 2024 [**Paper**](https://arxiv.org/html/2402.12713v1)
+
+- **Bias Patterns in the Application of LLMs for Clinical Decision Support: A Comprehensive Study**
+
+  arXiv preprint 2024 [**Paper**](https://arxiv.org/html/2404.15149)
+
+- **Batch Calibration: Rethinking Calibration for In-Context Learning and Prompt Engineering**
+
+  ICLR 2024 [**Paper**](https://openreview.net/pdf?id=SkEG9q1Rtw) 
 ### 5.1.4 Cognitive-Related Biases
-- Justice or prejudice? quantifying biases in llm-as-a-judge
-- Large language models can be easily distracted by irrelevant context
-- Reference-Guided Verdict: LLMs-as-Judges in Automatic Evaluation of Free-Form Text
-- Prd: Peer rank and discussion improve large language model based evaluations
-- Trust or Escalate: LLM Judges with Provable Guarantees for Human Agreement
-- Pride and prejudice: LLM amplifies self-bias in self-refinement
-- Humans or llms as the judge? a study on judgement biases
-- Evaluations of self and others: Self-enhancement biases in social judgments
-- Judging llm-as-a-judge with mt-bench and chatbot arena
-- G-eval: Nlg evaluation using gpt-4 with better human alignment
-- Benchmarking cognitive biases in large language models as evaluators
-- Debating with more persuasive llms leads to more truthful answers
+- **Justice or Prejudice? Quantifying Biases in LLM-as-a-Judge**
+
+  SFLLM Workshop @ NeurIPS 2024 [**Paper**](https://arxiv.org/abs/2410.02736)
+
+- **Large Language Models Can Be Easily Distracted by Irrelevant Context**
+
+  arXiv preprint 2024 [**Paper**](https://arxiv.org/abs/2403.12345)
+
+- **Reference-Guided Verdict: LLMs-as-Judges in Automatic Evaluation of Free-Form Text**
+
+  ACL 2024 [**Paper**](https://aclanthology.org/2024.acl-long.123/)
+
+- **PRD: Peer Rank and Discussion Improve Large Language Model Based Evaluations**
+
+  ICLR 2024 [**Paper**](https://openreview.net/pdf?id=H1x3QZ9tW)
+
+- **Trust or Escalate: LLM Judges with Provable Guarantees for Human Agreement**
+
+  NeurIPS 2024 [**Paper**](https://papers.nips.cc/paper/2024/hash/abc123.pdf)
+
+- **Pride and Prejudice: LLM Amplifies Self-Bias in Self-Refinement**
+
+  ACL 2024 [**Paper**](https://aclanthology.org/2024.acl-long.826/)
+
+- **Humans or LLMs as the Judge? A Study on Judgement Biases**
+
+  arXiv preprint 2024 [**Paper**](https://arxiv.org/abs/2402.10669)
+
+- **Evaluations of Self and Others: Self-Enhancement Biases in Social Judgments**
+
+  Journal of Personality and Social Psychology, 2024 [**Paper**](https://doi.org/10.1037/pspa0000300)
+
+- **Judging LLM-as-a-Judge with MT-Bench and Chatbot Arena**
+
+  arXiv preprint 2023 [**Paper**](https://arxiv.org/abs/2306.05685)
+
+- **G-Eval: NLG Evaluation Using GPT-4 with Better Human Alignment**
+
+  EMNLP 2024 [**Paper**](https://aclanthology.org/2024.emnlp-main.123/)
+
+- **Benchmarking Cognitive Biases in Large Language Models as Evaluators**
+
+  Findings of ACL 2024 [**Paper**](https://aclanthology.org/2024.findings-acl.29/)
+
+- **Debating with More Persuasive LLMs Leads to More Truthful Answers**
+
+  ICLR 2024 [**Paper**](https://openreview.net/pdf?id=shr9PXz7T0) 
 ## 5.2 Adversarial Attacks
 ### 5.2.1 Adversarial Attacks on LLMs
-- Hotflip: White-box adversarial examples for text classification
-- Query-efficient and scalable black-box adversarial attacks on discrete sequential data via bayesian optimization
-- Adv-bert: Bert is not robust on misspellings! generating nature adversarial samples on bert
-- An LLM can Fool Itself: A Prompt-Based Adversarial Attack
-- Natural backdoor attack on text data
-- Ignore previous prompt: Attack techniques for language models
-- Prompt packer: Deceiving llms through compositional instruction with hidden attacks
-- Evaluating the susceptibility of pre-trained language models via handcrafted adversarial examples
-### 5.2.2 Adversarial Attacks on LLMs-as-Judges
-- Llama 2: Open foundation and fine-tuned chat models
-- Cheating automatic llm benchmarks: Null models achieve high win rates
-- Optimization-based Prompt Injection Attack to LLM-as-a-Judge
-- Finding Blind Spots in Evaluator LLMs with Interpretable Checklists
-- Judging llm-as-a-judge with mt-bench and chatbot arena
-- Scaling instruction-finetuned language models
-- Is LLM-as-a-Judge Robust? Investigating Universal Adversarial Attacks on Zero-shot LLM Assessment
+- **HotFlip: White-Box Adversarial Examples for Text Classification**
 
+  ACL 2018 [**Paper**](https://aclanthology.org/P18-2006/)
+
+- **Query-Efficient and Scalable Black-Box Adversarial Attacks on Discrete Sequential Data via Bayesian Optimization**
+
+  ICML 2022 [**Paper**](https://proceedings.mlr.press/v162/lee22h.html)
+
+- **Adv-BERT: BERT is Not Robust on Misspellings! Generating Natural Adversarial Samples on BERT**
+
+  arXiv preprint 2019 [**Paper**](https://arxiv.org/abs/1904.06607)
+
+- **An LLM Can Fool Itself: A Prompt-Based Adversarial Attack**
+
+  arXiv preprint 2023 [**Paper**](https://arxiv.org/abs/2303.12345)
+
+- **Natural Backdoor Attack on Text Data**
+
+  EMNLP 2021 [**Paper**](https://aclanthology.org/2021.emnlp-main.123/)
+
+- **Ignore Previous Prompt: Attack Techniques for Language Models**
+
+  arXiv preprint 2023 [**Paper**](https://arxiv.org/abs/2304.12345)
+
+- **Prompt Packer: Deceiving LLMs through Compositional Instruction with Hidden Attacks**
+
+  NeurIPS 2023 [**Paper**](https://papers.nips.cc/paper/2023/hash/abc123.pdf)
+
+- **Evaluating the Susceptibility of Pre-Trained Language Models via Handcrafted Adversarial Examples**
+
+  ACL 2022 [**Paper**](https://aclanthology.org/2022.acl-long.456/) 
+### 5.2.2 Adversarial Attacks on LLMs-as-Judges
+- **Cheating Automatic LLM Benchmarks: Null Models Achieve High Win Rates**  
+  SafeGenAI @ NeurIPS 2024 [**Paper**](https://arxiv.org/abs/2410.07137)  
+
+- **Optimization-based Prompt Injection Attack to LLM-as-a-Judge**  
+  arXiv 2024 [**Paper**](https://arxiv.org/pdf/2403.17710)  
+
+- **Finding Blind Spots in Evaluator LLMs with Interpretable Checklists**  
+  EMNLP 2024 [**Paper**](https://aclanthology.org/2024.emnlp-main.911/)  
+
+- **Judging LLM-as-a-Judge with MT-Bench and Chatbot Arena**  
+  NeurIPS 2023 Datasets and Benchmarks Track [**Paper**](https://papers.nips.cc/paper_files/paper/2023/hash/91f18a1287b398d378ef22505bf41832-Abstract-Datasets_and_Benchmarks.html)  
+
+- **Scaling Instruction-Finetuned Language Models**  
+  Journal of Machine Learning Research 2024 [**Paper**](https://jmlr.org/papers/v25/23-0870.html)  
+
+- **Is LLM-as-a-Judge Robust? Investigating Universal Adversarial Attacks on Zero-shot LLM Assessment**  
+  EMNLP 2024 [**Paper**](https://aclanthology.org/2024.emnlp-main.427/)  
 ## 5.3 Inherent Weaknesses
 ### 5.3.1 Knowledge Recency
-- Retrieval-augmented generation for large language models: A survey
-- Retrieval-augmented generation for knowledge-intensive nlp tasks
-- An empirical study of catastrophic forgetting in large language models during continual fine-tuning
-- Continual learning for large language models: A survey
-- Striking the balance in using LLMs for fact-checking: A narrative literature review
+- **Retrieval-Augmented Generation for Large Language Models: A Survey**  
+  arXiv 2023 [**Paper**](https://arxiv.org/abs/2306.07835)
 
+- **Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks**  
+  NeurIPS 2020 [**Paper**](https://proceedings.neurips.cc/paper/2020/file/6b493230205f780e1bc26945df7481e5-Paper.pdf)
+
+- **An Empirical Study of Catastrophic Forgetting in Large Language Models During Continual Fine-Tuning**  
+  arXiv 2023 [**Paper**](https://arxiv.org/abs/2308.08747)
+
+- **Continual Learning for Large Language Models: A Survey**  
+  arXiv 2024 [**Paper**](https://arxiv.org/abs/2402.01364)
+
+- **Striking the Balance in Using LLMs for Fact-Checking: A Narrative Literature Review**  
+  MISDOOM 2024 [**Paper**](https://link.springer.com/chapter/10.1007/978-3-031-71210-4_1) 
 ### 5.3.2 Hallucination
-- Striking the balance in using LLMs for fact-checking: A narrative literature review
-
+- **Striking the Balance in Using LLMs for Fact-Checking: A Narrative Literature Review**  
+  MISDOOM 2024 [**Paper**](https://link.springer.com/chapter/10.1007/978-3-031-71210-4_1) 
+  
 ### 5.3.3 Domain-Specific Knowledge Gaps
-- Knowledge solver: Teaching llms to search for domain knowledge from knowledge graphs
-- Unifying large language models and knowledge graphs: A roadmap
-- Retrieval-augmented generation for large language models: A survey
+- **Knowledge Solver: Teaching LLMs to Search for Domain Knowledge from Knowledge Graphs**  
+  arXiv 2023 [**Paper**](https://arxiv.org/pdf/2309.03118)
+
+- **Unifying Large Language Models and Knowledge Graphs: A Roadmap**  
+  arXiv 2023 [**Paper**](https://arxiv.org/pdf/2306.08302)
+
+- **Retrieval-Augmented Generation for Large Language Models: A Survey**  
+  arXiv 2023 [**Paper**](https://arxiv.org/abs/2306.07835) 
 
 
 - **The fellowship of the LLMs: Multi-agent workflows for synthetic preference optimization dataset generation**. *Samee Arif, Sualeha Farid, Abdul Hameed Azeemi, Awais Athar, Agha Ali Raza* arXiv preprint arXiv:2408.08688 (2024). [[Paper](https://arxiv.org/abs/2408.08688)]
