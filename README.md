@@ -120,13 +120,64 @@ ACL Findings '23 [Paper](https://arxiv.org/abs/2306.01200)
 
 # 3. APPLICATION
 ## 3.1 General
+- **DailyDialog: A Manually Labelled Multi-turn Dialogue Dataset**. In Proceedings of The 8th International Joint Conference on Natural Language Processing (IJCNLP 2017).[[Poster](https://arxiv.org/abs/1710.03957)]
+- **Don’t give me the details, just the summary! Topic-aware convolutional neural networks for extreme summarization**. arXiv preprint arXiv:1808.08745 (2018). [[Paper](https://arxiv.org/abs/1808.08745)]
+- **Improving LLM-based machine translation with systematic self-correction**. arXiv preprint arXiv:2402.16379 (2024). [[Paper](https://arxiv.org/abs/2402.16379)]
+- **Fusion-Eval: Integrating Assistant Evaluators with LLMs**. In Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing: Industry Track. 225–238.[[Poster](https://arxiv.org/abs/2311.09204)]
+
+
 ## 3.2 Multimodal
+- **Llava-critic: Learning to evaluate multimodal models**. arXiv preprint arXiv:2410.02712 (2024). [[Paper](https://arxiv.org/abs/2410.02712)]
+- **Mllm-as-a-judge: Assessing multimodal llm-as-a-judge with vision-language benchmark**. arXiv preprint arXiv:2402.04788 (2024). [[Paper](https://arxiv.org/abs/2402.04788)]
+- **Can large language models aid in annotating speech emotional data? uncovering new frontiers**. arXiv preprint arXiv:2307.06090 (2023). [[Paper](https://arxiv.org/abs/2307.06090)]
+- **Efficient Self-Improvement in Multimodal Large Language Models: A Model-Level Judge-Free Approach**. arXiv preprint arXiv:2411.17760 (2024). [[Paper](https://arxiv.org/abs/2411.17760)]
+- **Calibrated self-rewarding vision language models**. arXiv preprint arXiv:2405.14622 (2024). [[Paper](https://arxiv.org/abs/2405.14622)]
+- **Automated evaluation of large vision-language models on self-driving corner cases**. arXiv preprint arXiv:2404.10595 (2024). [[Paper](https://arxiv.org/abs/2404.10595)]
+
 ## 3.3 Medical
+- **DOCLENS: Multi-aspect fine-grained evaluation for medical text generation**. In Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics. (2024).[[Paper](https://arxiv.org/abs/2311.09581)]
+- **Comparing Two Model Designs for Clinical Note Generation; Is an LLM a Useful Evaluator of Consistency?**. arXiv preprint arXiv:2404.06503 (2024). [[Paper](https://arxiv.org/abs/2404.06503)]
+- **Towards Leveraging Large Language Models for Automated Medical Q&A Evaluation**. arXiv preprint arXiv:2409.01941 (2024). [[Paper](https://arxiv.org/abs/2409.01941)]
+- **Automatic evaluation for mental health counseling using LLMs**. arXiv preprint arXiv:2402.11958 (2024). [[Paper](https://arxiv.org/abs/2402.11958)]
+- **Improving medical reasoning through retrieval and self-reflection with retrieval-augmented large language models**. Bioinformatics 40, Supplement_1 (2024), i119–i129. [[Paper](https://arxiv.org/abs/2401.15269)]
+- **DALK: Dynamic Co-Augmentation of LLMs and KG to answer Alzheimer's Disease Questions with Scientific Literature**. arXiv preprint arXiv:2405.04819 (2024). [[Paper](https://arxiv.org/abs/2405.04819)]
+  
 ## 3.4 Legal
+- **Disc-lawllm: Fine-tuning large language models for intelligent legal services**. arXiv preprint arXiv:2309.11325 (2023). [[Paper](https://arxiv.org/abs/2309.11325)]
+- **Retrieval-based Evaluation for LLMs: A Case Study in Korean Legal QA**. In Proceedings of the Natural Legal Language Processing Workshop 2023. 132–137. [[Paper](https://arxiv.org/abs/2309.11325)]
+- **Constructing domain-specific evaluation sets for llm-as-a-judge**. arXiv preprint arXiv:2408.08808 (2024). [[Paper](https://arxiv.org/abs/2408.08808)]
+- **Leveraging Large Language Models for Relevance Judgments in Legal Case Retrieval**. arXiv preprint arXiv:2403.18405 (2024). [[Paper](https://arxiv.org/abs/2403.18405)]
+
+
 ## 3.5 Financial
+- **Pixiu: A large language model, instruction data and evaluation benchmark for finance**. arXiv preprint arXiv:2306.05443 (2023). [[Paper](https://arxiv.org/abs/2306.05443)]
+- **GPT classifications, with application to credit lending**. Machine Learning with Applications 16 (2024), 100534. [[Paper](https://doi.org/10.1016/j.mlwa.2024.100534)]
+- **KRX Bench: Automating Financial Benchmark Creation via Large Language Models**. In Proceedings of the Joint Workshop of the 7th Financial Technology and Natural Language Processing, the 5th Knowledge Discovery from Unstructured Data in Financial Services, and the 4th Workshop on Economics and Natural Language Processing@ LREC-COLING 2024. 10–20.[[Paper](https://aclanthology.org/2024.finnlp-1.2/)]
+
 ## 3.6 Education
+- **Large Language Model as an Assignment Evaluator: Insights, Feedback, and Challenges in a 1000+ Student Course**. arXiv preprint arXiv:2407.05216 (2024). [[Paper](https://arxiv.org/abs/2407.05216)]
+- **Automated Genre-Aware Article Scoring and Feedback Using Large Language Models**. arXiv preprint arXiv:2410.14165 (2024). [[Paper](https://arxiv.org/abs/2410.14165)]
+- **Automated Essay Scoring and Revising Based on Open-Source Large Language Models**. IEEE Transactions on Learning Technologies (2024). [[Paper](https://ieeexplore.ieee.org/document/10520824)] 
+- **Is LLM a Reliable Reviewer? A Comprehensive Evaluation of LLM on Automatic Paper Reviewing Tasks**. In Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024). 9340–9351. [[Paper](https://aclanthology.org/2024.lrec-main.816/)]
+- **Evaluating Mathematical Reasoning Beyond Accuracy**. arXiv preprint arXiv:2404.05692 (2024). [[Paper](https://arxiv.org/abs/2404.05692)] 
+- **Debatrix: Multi-dimensional Debate Judge with Iterative Chronological Analysis Based on LLM**. arXiv preprint arXiv:2403.08010 (2024). [[Paper](https://arxiv.org/abs/2403.08010)] 
+
+
 ## 3.7 Information Retrieval
+- **LLMJudge: LLMs for Relevance Judgments**. arXiv preprint arXiv:2408.08896 (2024). [[Paper](https://arxiv.org/abs/2408.08896)]
+- **JudgeRank: Leveraging Large Language Models for Reasoning-Intensive Reranking**. arXiv preprint arXiv:2411.00142 (2024). [[Paper](https://arxiv.org/abs/2411.00142)]
+- **Large language models as evaluators for recommendation explanations**. In Proceedings of the 18th ACM Conference on Recommender Systems. 33–42 (2024).
+- **Ares: An automated evaluation framework for retrieval-augmented generation systems**. arXiv preprint arXiv:2311.09476 (2023). [[Paper](https://arxiv.org/abs/2311.09476)]
+
 ## 3.8 Others
+- **AIME: AI System Optimization via Multiple LLM Evaluators**. arXiv preprint arXiv:2410.03131 (2024). [[Paper](https://arxiv.org/abs/2410.03131)]
+- **CodeUltraFeedback: An LLM-as-a-Judge Dataset for Aligning Large Language Models to Coding Preferences**. arXiv preprint arXiv:2403.09032 (2024). [[Paper](https://arxiv.org/abs/2403.09032)]
+- **LLMs as Evaluators: A Novel Approach to Evaluate Bug Report Summarization**. arXiv preprint arXiv:2409.00630 (2024). [[Paper](https://arxiv.org/abs/2409.00630)]
+- **Using Large Language Models to Evaluate Biomedical Query-Focused Summarisation**. In Proceedings of the 23rd Workshop on Biomedical Natural Language Processing. 236–242 (2024).[[Paper](https://aclanthology.org/2024.bionlp-1.18/)]
+- **AI can help humans find common ground in democratic deliberation**. Science 386, 6719 (2024), eadq2852.[[Paper](https://www.science.org/doi/10.1126/science.adq2852)]
+- **Sotopia: Interactive evaluation for social intelligence in language agents**. arXiv preprint arXiv:2310.11667 (2023). [[Paper](https://arxiv.org/abs/2310.11667)]
+
+
 
 # 4. META-EVALUATION
 ## 4.1 Benchmarks
