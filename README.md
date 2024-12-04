@@ -182,16 +182,198 @@ ACL Findings '23 [Paper](https://arxiv.org/abs/2306.01200)
 # 4. META-EVALUATION
 ## 4.1 Benchmarks
 ### 4.1.1 Code Generation
-### 4.1.2 Machine Translation
-### 4.1.3 Text Summarization
-### 4.1.4 Dialogue Generation
-### 4.1.5 Automatic Story Generation
-### 4.1.6 Values Alignment
-### 4.1.7 Recommendation
-### 4.1.8 Search
-### 4.1.9 Comprehensive Data
-## 4.2 Metric
+- **SWE-bench: Can Language Models Resolve Real-World GitHub Issues?**  
+  ICLR 2024 [**Paper**](https://arxiv.org/abs/2310.06770)
 
+- **CodeUltraFeedback: An LLM-as-a-Judge Dataset for Aligning Large Language Models to Coding Preferences**  
+  arXiv 2024 [**Paper**](https://arxiv.org/pdf/2403.09032)
+
+- **Evaluating Large Language Models Trained on Code**  
+  arXiv 2021 [**Paper**](https://arxiv.org/abs/2107.03374)
+
+- **Agent-as-a-Judge: Evaluate Agents with Agents**  
+  arXiv 2024 [**Paper**](https://arxiv.org/abs/2410.10934)
+
+- **CrossCodeEval: A Diverse and Multilingual Benchmark for Cross-File Code Completion**  
+  NeurIPS 2023 (Datasets and Benchmarks Track) [**Paper**](https://papers.nips.cc/paper_files/paper/2023/file/920f2dced7d32ab2ba2f1970bc306af6-Paper-Datasets_and_Benchmarks.pdf) 
+### 4.1.2 Machine Translation
+- **Experts, errors, and context: A large-scale study of human evaluation for machine translation**  
+  TACL 2021 [**Paper**](https://aclanthology.org/2021.tacl-1.87)
+
+- **Results of the WMT21 metrics shared task: Evaluating metrics with expert-based human evaluations on TED and news domain**  
+  WMT 2021 [**Paper**](https://aclanthology.org/2021.wmt-1.11/) 
+
+- **Large language models effectively leverage document-level context for literary translation, but critical errors persist**  
+  ACL 2023 [**Paper**](https://aclanthology.org/2023.findings-acl.268/) 
+### 4.1.3 Text Summarization
+- **Understanding factuality in abstractive summarization with FRANK: A benchmark for factuality metrics**  
+  ACL 2024 [**Paper**](https://arxiv.org/abs/2305.03225)
+
+- **Summeval: Re-evaluating summarization evaluation**  
+  NAACL 2023 [**Paper**](https://aclanthology.org/2023.naacl-main.368/)
+
+- **Opinsummeval: Revisiting automated evaluation for opinion summarization**  
+  EMNLP 2023 [**Paper**](https://arxiv.org/abs/2310.18122)
+### 4.1.4 Dialogue Generation
+- **Topical-chat: Towards knowledge-grounded open-domain conversations**  
+  ACL 2020 [**Paper**](https://aclanthology.org/2020.acl-main.49/)
+
+- **Automatic evaluation and moderation of open-domain dialogue systems**  
+  DSTC10 [**Paper**](https://arxiv.org/abs/2111.02110)
+
+- **Personalizing dialogue agents: I have a dog, do you have pets too**  
+  ACL 2020 [**Paper**](https://aclanthology.org/2020.acl-main.39/)
+
+- **USR: An unsupervised and reference free evaluation metric for dialog generation**  
+  ACL 2020 [**Paper**](https://aclanthology.org/2020.acl-main.56/)
+
+- **Overview of the Tenth Dialog System Technology Challenge: DSTC10**  
+  DSTC10 [**Paper**](https://arxiv.org/abs/2111.02110)
+
+### 4.1.5 Automatic Story Generation
+- **OpenMEVA: A benchmark for evaluating open-ended story generation metrics**
+  
+  ACL 2023 [**Paper**](https://aclanthology.org/2023.acl-long.474/)
+
+- **Of human criteria and automatic metrics: A benchmark of the evaluation of story generation**
+  
+  ACL 2023 [**Paper**](https://aclanthology.org/2023.acl-long.119/)
+
+- **Learning personalized story evaluation**
+  
+  EMNLP 2023 [**Paper**](https://arxiv.org/abs/2310.03304)
+
+- **Hierarchical neural story generation**
+  
+  ICLR 2020 [**Paper**](https://openreview.net/forum?id=Syx59JEtPB)
+
+- **A corpus and cloze evaluation for deeper understanding of commonsense stories**
+  
+  ACL 2022 [**Paper**](https://aclanthology.org/2022.acl-long.39/)
+
+- **StoryER: Automatic story evaluation via ranking, rating and reasoning**
+  
+  EMNLP 2022 [**Paper**](https://aclanthology.org/2022.emnlp-main.98/)
+### 4.1.6 Values Alignment
+- **A general language assistant as a laboratory for alignment. arXiv**  
+  arXiv 2023 [**Paper**](https://arxiv.org/abs/2305.05910)
+
+- **PKU-SafeRLHF: Towards Multi-Level Safety Alignment for LLMs with Human Preference**  
+  arXiv 2024 [**Paper**](https://arxiv.org/abs/2406.15513)
+
+- **Cvalues: Measuring the values of chinese large language models from safety to responsibility**  
+  arXiv 2023 [**Paper**](https://arxiv.org/pdf/2307.09705)
+
+### 4.1.7 Recommendation
+- **Large Language Models as Evaluators for Recommendation Explanations**  
+  RecSys 2024 [**Paper**](https://doi.org/10.1145/3640457.3688075)
+
+- **Yelp dataset challenge: Review rating prediction**  
+  KDD 2015 [**Paper**](https://dl.acm.org/doi/10.1145/2808797.2808807)
+
+- **The movielens datasets: History and context**  
+  TiiS 2016 [**Paper**](https://dl.acm.org/doi/10.1145/2827872)
+
+### 4.1.8 Search
+- **Lecardv2: A large-scale chinese legal case retrieval dataset**
+  
+  SIGIR 2024 [**Paper**](https://researchr.org/publication/LiSWAM024)
+- **Overview of the TREC 2021 Deep Learning Track**  
+  TREC 2021 [**Paper**](https://trec.nist.gov/pubs/trec30/papers/Overview-DL.pdf)
+
+- **Overview of the TREC 2023 NeuCLIR Track**  
+  TREC 2023 [**Paper**](https://trec.nist.gov/pubs/trec30/papers/Overview-NeuCLIR.pdf)
+
+- **Ms MARCO: A human generated machine reading comprehension dataset**
+
+  ICLR 2017 [**Paper**](https://openreview.net/forum?id=Hk1iOLcle)
+
+- **Overview of the TREC 2022 Deep Learning Track**  
+  TREC 2022 [**Paper**](https://trec.nist.gov/pubs/trec30/papers/Overview-DL.pdf)
+### 4.1.9 Comprehensive Data
+- **Length-controlled alpacaeval: A simple way to debias automatic evaluators**
+
+  COLM 2024 [**Paper**](https://openreview.net/forum?id=CybBmzWBX0)
+
+- **Helpsteer: Multi-attribute helpfulness dataset for steerlm**  
+  NAACL 2024 [**Paper**](https://researchr.org/publication/WangDZASEDSKSK24)
+
+- **ULTRAFEEDBACK: Boosting Language Models with Scaled AI Feedback**
+  
+  ICML 2024 [**Paper**](https://openreview.net/forum?id=BOorDpKHiJ)
+
+- **Helpsteer2-preference: Complementing ratings with preferences**  
+  CoRR 2024 [**Paper**](https://arxiv.org/abs/2410.01257)
+  
+- **Enhancing Chat Language Models by Scaling High-quality Instructional Conversations**
+
+  EMNLP 2023 [**Paper**](https://aclanthology.org/2023.emnlp-main.183/)
+
+- **RewardBench: Evaluating Reward Models for Language Modeling**
+
+  arXiv preprint, March 2024 [**Paper**](https://arxiv.org/abs/2403.13787)
+
+- **FLASK: Fine-grained Language Model Evaluation based on Alignment Skill Sets**
+
+  ICLR 2024 [**Paper**](https://arxiv.org/abs/2307.10928)
+
+- **RM-Bench: Benchmarking Reward Models of Language Models with Subtlety and Style**  
+  
+  ICLR 2025 [**Paper**](https://openreview.net/forum?id=QEHrmQPBdd)
+
+- **MLLM-as-a-Judge: Assessing Multimodal LLM-as-a-Judge with Vision-Language Benchmark**  
+  
+  ICML 2024 [**Paper**](https://proceedings.mlr.press/v235/chen24h.html).
+
+- **MM-Eval: A Multilingual Meta-Evaluation Benchmark for LLM-as-a-Judge and Reward Models**  
+  
+  arXiv 2024 [**Paper**](https://www.catalyzex.com/paper/mm-eval-a-multilingual-meta-evaluation).
+
+- **TruthfulQA: Measuring How Models Mimic Human Falsehoods**  
+  
+  arXiv 2021 [**Paper**](https://arxiv.org/abs/2109.07958). 
+
+- **CompassJudger-1: All-in-one Judge Model Helps Model Evaluation and Evolution**  
+  
+  arXiv 2024 [**Paper**](https://arxiv.org/abs/2410.16256). 
+
+- **Judging LLM-as-a-Judge with MT-Bench and Chatbot Arena**  
+  
+  NeurIPS 2023 [**Paper**](https://openreview.net/forum?id=RAW0XaE5nq). 
+
+- **WildBench: Benchmarking LLMs with Challenging Tasks from Real Users in the Wild**  
+
+  arXiv 2024 [**Paper**](https://arxiv.org/abs/2406.04770). 
+
+- **JudgeBench: A Benchmark for Evaluating LLM-based Judges**  
+  
+  arXiv 2024 [**Paper**](https://arxiv.org/abs/2410.12784). 
+
+- **Vicuna: An Open-Source Chatbot Impressing GPT-4 with 90%* ChatGPT Quality**  
+  
+  LMSYS Org 2023 [**Paper**](https://lmsys.org/blog/2023-03-30-vicuna/). 
+## 4.2 Metric
+明白了！以下是按正确格式返回的内容：
+
+- **Pearson correlation coefficient**  
+  
+  Philosophical Transactions of the Royal Society of London, 1895 [**Paper**](https://link.springer.com/content/pdf/10.1007/978-3-642-00296-0_5.pdf).
+
+- **Spearman’s rank correlation coefficient**  
+  
+  The American Journal of Psychology, 1904 [**Paper**](https://www.researchgate.net/profile/Philip-Sedgwick/publication/268986657_Spearman's_rank_correlation_coefficient/links/5d4d54654585153e5947cc61/Spearmans-rank-correlation-coefficient.pdf).
+
+- **Estimates of the regression coefficient based on Kendall's tau**  
+  
+  Journal of the American Statistical Association, 1968 [**Paper**](https://www.jstor.org/stable/2285891).
+
+- **The Intraclass Correlation Coefficient as a Measure of Reliability**  
+  
+  Psychological reports, 1966 [**Paper**](https://journals.sagepub.com/doi/abs/10.2466/pr0.1966.19.1.3). 
+
+- **Five ways to look at Cohen's kappa**  
+  
+   Journal of Psychology & Psychotherapy, 2015 [**Paper**](https://pure.rug.nl/ws/portalfiles/portal/40110949/Warrens_2015_PP_5_197.pdf).
 
 # 5. LIMITATION
 ## 5.1 Biases
