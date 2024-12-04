@@ -171,115 +171,282 @@ If our survey is useful for your research, please kindly cite our [paper](https:
   EMNLP 2024. [[Paper](https://arxiv.org/abs/2406.00770)]
 - **STaR: Self-taught reasoner bootstrapping reasoning with reasoning**
   
-  NeurIPS 2022.[[Paper](https://arxiv.org/abs/2203.14465)]
+  NeurIPS 2022. [[Paper](https://arxiv.org/abs/2203.14465)]
 - **Beyond human data: Scaling self-training for problem-solving with language models**
   
-  arXiv preprint arXiv:2312.06585 (2023). [[Paper](https://arxiv.org/abs/2312.06585)]
+  arXiv 2023. [[Paper](https://arxiv.org/abs/2312.06585)]
 
 
 # 2. METHODOLOGY
 ## 2.1 Single-LLM System
 ### 2.1.1 Prompt-based
 #### 2.1.1.1 In-Context Learning
-- **A survey on in-context learning**. arXiv preprint arXiv:2301.00234 (2022). [[Paper](https://arxiv.org/abs/2301.00234)]
-- **Gptscore: Evaluate as you desire**. arXiv preprint arXiv:2302.04166 (2023). [[Paper](https://arxiv.org/abs/2302.04166)]
-- **Llm-eval: Unified multi-dimensional automatic evaluation for open-domain conversations with large language models**. NLP4ConvAI (2023). [[Paper](https://arxiv.org/abs/2305.13711)]
-- **TALEC: Teach Your LLM to Evaluate in Specific Domain with In-house Criteria by Criteria Division and Zero-shot Plus Few-shot**. arXiv preprint arXiv:2407.10999 (2024). [[Paper](https://arxiv.org/abs/2407.10999)]
-- **Multi-dimensional evaluation of text summarization with in-context learning**. ACL Findings (2023). [[Paper](https://arxiv.org/abs/2306.01200)]
-- **Calibrate before use: Improving few-shot performance of language models**. ICML (2021). [[Paper](https://arxiv.org/abs/2102.09690)]
-- **Batch calibration: Rethinking calibration for in-context learning and prompt engineering**. ICLR (2024). [[Paper](https://arxiv.org/abs/2309.17249)]
-- **Prototypical calibration for few-shot learning of language models**. arXiv preprint arXiv:2205.10183 (2022). [[Paper](https://arxiv.org/abs/2205.10183)]
-- **Mitigating label biases for in-context learning**. ACL (2023). [[Paper](https://arxiv.org/abs/2305.19148)]
-- **ALLURE: auditing and improving llm-based evaluation of text using iterative in-context-learning**. arXiv preprint arXiv:2309.13701 (2023). [[Paper](https://arxiv.org/abs/2309.13701)]
-- **Can Many-Shot In-Context Learning Help Long-Context LLM Judges? See More, Judge Better!**. arXiv preprint arXiv:2406.11629 (2024). [[Paper](https://arxiv.org/abs/2406.11629)]
+- **A survey on in-context learning**
+
+  arXiv 2022. [[Paper](https://arxiv.org/abs/2301.00234)]
+- **Gptscore: Evaluate as you desire**
+
+  arXiv 2023. [[Paper](https://arxiv.org/abs/2302.04166)]
+- **Llm-eval: Unified multi-dimensional automatic evaluation for open-domain conversations with large language models**
+
+  NLP4ConvAI (2023). [[Paper](https://arxiv.org/abs/2305.13711)]
+- **TALEC: Teach Your LLM to Evaluate in Specific Domain with In-house Criteria by Criteria Division and Zero-shot Plus Few-shot**
+
+  arXiv 2024. [[Paper](https://arxiv.org/abs/2407.10999)]
+- **Multi-dimensional evaluation of text summarization with in-context learning**
+
+  ACL 2023 (Findings). [[Paper](https://arxiv.org/abs/2306.01200)]
+- **Calibrate before use: Improving few-shot performance of language models**
+
+  ICML 2021. [[Paper](https://arxiv.org/abs/2102.09690)]
+- **Batch calibration: Rethinking calibration for in-context learning and prompt engineering**
+
+  ICLR 2024. [[Paper](https://arxiv.org/abs/2309.17249)]
+- **Prototypical calibration for few-shot learning of language models**
+
+  arXiv 2022. [[Paper](https://arxiv.org/abs/2205.10183)]
+- **Mitigating label biases for in-context learning**
+
+  ACL 2023. [[Paper](https://arxiv.org/abs/2305.19148)]
+- **ALLURE: auditing and improving llm-based evaluation of text using iterative in-context-learning**
+
+  arXiv 2023. [[Paper](https://arxiv.org/abs/2309.13701)]
+- **Can Many-Shot In-Context Learning Help Long-Context LLM Judges? See More, Judge Better!**
+
+  arXiv 2024. [[Paper](https://arxiv.org/abs/2406.11629)]
+
 #### 2.1.1.2 Step-by-step
-- **Chain-of-thought prompting elicits reasoning in large language models**. NeurIPS (2022). [[Paper](https://arxiv.org/abs/2201.11903)]
-- **Little giants: Exploring the potential of small llms as evaluation metrics in summarization in the eval4nlp 2023 shared task**. Eval4NLP (2023). [[Paper](https://arxiv.org/abs/2311.00686)]
-- **G-eval: Nlg evaluation using gpt-4 with better human alignment**. arXiv preprint arXiv:2303.16634 (2023). [[Paper](https://arxiv.org/abs/2303.16634)]
-- **ICE-Score: Instructing Large Language Models to Evaluate Code**. EACL findings (2024). [[Paper](https://arxiv.org/abs/2304.14317)]
-- **ProtocoLLM: Automatic Evaluation Framework of LLMs on Domain-Specific Scientific Protocol Formulation Tasks**. arXiv preprint arXiv:2410.04601 (2024). [[Paper](https://arxiv.org/abs/2410.04601)]
-- **A closer look into automatic evaluation using large language models**. EMNLP findings (2023). [[Paper](https://arxiv.org/abs/2310.05657)]
-- **FineSurE: Fine-grained summarization evaluation using LLMs**. ACL (2024). [[Paper](https://arxiv.org/abs/2407.00908)]
+- **Chain-of-thought prompting elicits reasoning in large language models**
+
+  NeurIPS 2022. [[Paper](https://arxiv.org/abs/2201.11903)]
+- **Little giants: Exploring the potential of small llms as evaluation metrics in summarization in the eval4nlp 2023 shared task**
+
+  Eval4NLP 2023. [[Paper](https://arxiv.org/abs/2311.00686)]
+- **G-eval: Nlg evaluation using gpt-4 with better human alignment**
+
+  arXiv 2023. [[Paper](https://arxiv.org/abs/2303.16634)]
+- **ICE-Score: Instructing Large Language Models to Evaluate Code**
+
+  EACL 2024 (findings). [[Paper](https://arxiv.org/abs/2304.14317)]
+- **ProtocoLLM: Automatic Evaluation Framework of LLMs on Domain-Specific Scientific Protocol Formulation Tasks**
+
+  arXiv 2024. [[Paper](https://arxiv.org/abs/2410.04601)]
+- **A closer look into automatic evaluation using large language models**
+
+  EMNLP 2023 (findings). [[Paper](https://arxiv.org/abs/2310.05657)]
+- **FineSurE: Fine-grained summarization evaluation using LLMs**
+
+  ACL 2024. [[Paper](https://arxiv.org/abs/2407.00908)]
+
 #### 2.1.1.3 Definition Augmentation
-- **Can LLM be a Personalized Judge?**. arXiv preprint arXiv:2406.11657 (2024). [[Paper](https://arxiv.org/abs/2406.11657)]
-- **Split and merge: Aligning position biases in large language model based evaluators**. arXiv preprint arXiv:2310.01432 (2023). [[Paper](https://arxiv.org/abs/2310.01432)]
-- **Biasalert: A plug-and-play tool for social bias detection in llms**. arXiv preprint arXiv:2407.10241} (2024). [[Paper](https://arxiv.org/abs/2407.10241)]
-- **LLMs are Biased Evaluators But Not Biased for Retrieval Augmented Generation**. arXiv preprint arXiv:2410.20833 (2024). [[Paper](https://arxiv.org/abs/2410.20833)]
-- **Unveiling Context-Aware Criteria in Self-Assessing LLMs**. arXiv preprint arXiv:2410.21545 (2024). [[Paper](https://arxiv.org/abs/2410.21545)]
-- **Calibrating llm-based evaluator**. arXiv preprint arXiv:2309.13308 (2023). [[Paper](https://arxiv.org/abs/2309.13308)]
+- **Can LLM be a Personalized Judge?**
+
+  arXiv 2024. [[Paper](https://arxiv.org/abs/2406.11657)]
+- **Split and merge: Aligning position biases in large language model based evaluators**
+
+  arXiv 2023. [[Paper](https://arxiv.org/abs/2310.01432)]
+- **Biasalert: A plug-and-play tool for social bias detection in llms**
+
+  arXiv 2024. [[Paper](https://arxiv.org/abs/2407.10241)]
+- **LLMs are Biased Evaluators But Not Biased for Retrieval Augmented Generation**
+
+  arXiv 2024. [[Paper](https://arxiv.org/abs/2410.20833)]
+- **Unveiling Context-Aware Criteria in Self-Assessing LLMs**
+
+  arXiv 2024. [[Paper](https://arxiv.org/abs/2410.21545)]
+- **Calibrating llm-based evaluator**
+
+  arXiv 2023. [[Paper](https://arxiv.org/abs/2309.13308)]
+
 #### 2.1.1.4 Multi-turn Optimization
-- **Large Language Models Are Active Critics in NLG Evaluation**. arXiv preprint arXiv:2410.10724 (2024). [[Paper](https://arxiv.org/abs/2410.10724)]
+- **Large Language Models Are Active Critics in NLG Evaluation**
+
+  arXiv 2024. [[Paper](https://arxiv.org/abs/2410.10724)]
+- **Kieval: A knowledge-grounded interactive evaluation framework for large language models**
+
+  ACL 2024. [[Paper](https://arxiv.org/abs/2402.15043)]
 
 ### 2.1.2 Tuning-based
 ### 2.1.2.1 Score-based Tuning
-- **Learning personalized story evaluation**. arXiv preprint arXiv:2310.03304 (2023). [[Paper](https://arxiv.org/abs/2310.03304)]
-- **Improving Model Factuality with Fine-grained Critique-based Evaluator**. arXiv preprint arXiv:2410.18359 (2024). [[Paper](https://arxiv.org/abs/2410.18359)]
-- **Ares: An automated evaluation framework for retrieval-augmented generation systems**. NAACL (2024). [[Paper](https://arxiv.org/abs/2311.09476)]
-- **PHUDGE: Phi-3 as Scalable Judge**. arXiv preprint arXiv:2405.08029 (2024). [[Paper](https://arxiv.org/abs/2405.08029)]
-- **Self-Judge: Selective Instruction Following with Alignment Self-Evaluation**. arXiv preprint arXiv:2409.00935 (2024). [[Paper](https://arxiv.org/abs/2409.00935)]
+- **Learning personalized story evaluation**
+
+  arXiv 2023. [[Paper](https://arxiv.org/abs/2310.03304)]
+- **Improving Model Factuality with Fine-grained Critique-based Evaluator**
+
+  arXiv 2024. [[Paper](https://arxiv.org/abs/2410.18359)]
+- **Ares: An automated evaluation framework for retrieval-augmented generation systems**
+
+  NAACL 2024. [[Paper](https://arxiv.org/abs/2311.09476)]
+- **PHUDGE: Phi-3 as Scalable Judge**
+
+  arXiv 2024. [[Paper](https://arxiv.org/abs/2405.08029)]
+- **Self-Judge: Selective Instruction Following with Alignment Self-Evaluation**
+
+  arXiv 2024. [[Paper](https://arxiv.org/abs/2409.00935)]
+
 ### 2.1.2.2 Preference-based Learning
-- **Beyond Scalar Reward Model: Learning Generative Judge from Preference Data**. arXiv preprint arXiv:2410.03742 (2024). [[Paper](https://arxiv.org/abs/2410.03742)]
-- **Prometheus 2: An open source language model specialized in evaluating other language models**. arXiv preprint arXiv:2405.01535 (2024). [[Paper](https://arxiv.org/abs/2405.01535)]
-- **Prometheus: Inducing fine-grained evaluation capability in language models**. ICLR (2024). [[Paper](https://arxiv.org/abs/2310.08491)]
-- **FedEval-LLM: Federated Evaluation of Large Language Models on Downstream Tasks with Collective Wisdom**. arXiv preprint arXiv:2404.12273 (2024). [[Paper](https://arxiv.org/abs/2404.12273)]
-- **Self-rationalization improves LLM as a fine-grained judge**. arXiv preprint arXiv:2410.05495 (2024). [[Paper](https://arxiv.org/abs/2410.05495)]
-- **Mitigating the Bias of Large Language Model Evaluation**. arXiv preprint arXiv:2409.16788 (2024). [[Paper](https://arxiv.org/abs/2409.16788)]
-- **Foundational autoraters: Taming large language models for better automatic evaluation**. arXiv preprint arXiv:2407.10817 (2024). [[Paper](https://arxiv.org/abs/2407.10817)]
-- **Self-taught evaluators**. arXiv preprint arXiv:2408.02666 (2024). [[Paper](https://arxiv.org/abs/2408.02666)]
-- **Pandalm: An automatic evaluation benchmark for llm instruction tuning optimization**. ILCR (2024). [[Paper](https://arxiv.org/abs/2306.05087)]
-- **CompassJudger-1: All-in-one Judge Model Helps Model Evaluation and Evolution**. arXiv preprint arXiv:2410.16256 (2024). [[Paper](https://arxiv.org/abs/2410.16256)]
+- **Beyond Scalar Reward Model: Learning Generative Judge from Preference Data**
+
+  arXiv 2024. [[Paper](https://arxiv.org/abs/2410.03742)]
+- **Prometheus: Inducing fine-grained evaluation capability in language models**
+
+  ICLR 2024. [[Paper](https://arxiv.org/abs/2310.08491)]
+- **Prometheus 2: An open source language model specialized in evaluating other language models**
+
+  arXiv 2024. [[Paper](https://arxiv.org/abs/2405.01535)]
+- **FedEval-LLM: Federated Evaluation of Large Language Models on Downstream Tasks with Collective Wisdom**
+
+  arXiv 2024. [[Paper](https://arxiv.org/abs/2404.12273)]
+- **Self-rationalization improves LLM as a fine-grained judge**
+
+  arXiv 2024. [[Paper](https://arxiv.org/abs/2410.05495)]
+- **Mitigating the Bias of Large Language Model Evaluation**
+
+  arXiv 2024. [[Paper](https://arxiv.org/abs/2409.16788)]
+- **Foundational autoraters: Taming large language models for better automatic evaluation**
+
+  arXiv 2024. [[Paper](https://arxiv.org/abs/2407.10817)]
+- **Self-taught evaluators**
+
+  arXiv 2024. [[Paper](https://arxiv.org/abs/2408.02666)]
+- **Pandalm: An automatic evaluation benchmark for llm instruction tuning optimization**
+
+  ILCR 2024. [[Paper](https://arxiv.org/abs/2306.05087)]
+- **CompassJudger-1: All-in-one Judge Model Helps Model Evaluation and Evolution**
+
+  arXiv 2024. [[Paper](https://arxiv.org/abs/2410.16256)]
 
 ### 2.1.3 Post-processing
 ### 2.1.3.1 Probability Calibration
-- **Efficient LLM Comparative Assessment: a Product of Experts Framework for Pairwise Comparisons**. arXiv preprint arXiv:2405.05894 (2024). [[Paper](https://arxiv.org/abs/2405.05894)]
-- **Aligning Model Evaluations with Human Preferences: Mitigating Token Count Bias in Language Model Assessments**. arXiv preprint arXiv:2407.12847 (2024). [[Paper](https://arxiv.org/abs/2407.12847)]
-- **Language Models can Evaluate Themselves via Probability Discrepancy**. ACL Findings (2024). [[Paper](https://arxiv.org/abs/2405.10516)]
-- **Mitigating biases for instruction-following language models via bias neurons elimination**. ACL (2024). [[Paper](https://arxiv.org/abs/2311.09627)]
+- **Efficient LLM Comparative Assessment: a Product of Experts Framework for Pairwise Comparisons**
+
+  arXiv 2024. [[Paper](https://arxiv.org/abs/2405.05894)]
+- **Aligning Model Evaluations with Human Preferences: Mitigating Token Count Bias in Language Model Assessments**
+
+  arXiv 2024. [[Paper](https://arxiv.org/abs/2407.12847)]
+- **Language Models can Evaluate Themselves via Probability Discrepancy**
+
+  ACL 2024 (Findings). [[Paper](https://arxiv.org/abs/2405.10516)]
+- **Mitigating biases for instruction-following language models via bias neurons elimination**
+
+  ACL 2024. [[Paper](https://arxiv.org/abs/2311.09627)]
+
 ### 2.1.3.2 Text Reprocessing
-- **Evaluation metrics in the era of GPT-4: reliably evaluating large language models on sequence to sequence tasks**. EMNLP (2023). [[Paper](https://arxiv.org/abs/2310.13800)]
-- **Open-LLM-Leaderboard: From Multi-choice to Open-style Questions for LLMs Evaluation, Benchmark, and Arena**. arXiv preprint arXiv:2406.07545 (2024). [[Paper](https://arxiv.org/abs/2406.07545)]
-- **Consolidating Ranking and Relevance Predictions of Large Language Models through Post-Processing**. arXiv preprint arXiv:2404.11791 (2024). [[Paper](https://arxiv.org/abs/2404.11791)]
-- **RevisEval: Improving LLM-as-a-Judge via Response-Adapted References**. arXiv preprint arXiv:2410.05193 (2024). [[Paper](https://arxiv.org/abs/2410.05193)]
-- **Generative judge for evaluating alignment**. arXiv preprint arXiv:2310.05470 (2023). [[Paper](https://arxiv.org/abs/2310.05470)]
-- **Self-evaluation improves selective generation in large language models**. NeurIPS Workshops (2023). [[Paper](https://arxiv.org/abs/2312.09300)]
-- **AI can help humans find common ground in democratic deliberation**. Science (2024). [[Paper](https://www.science.org/doi/abs/10.1126/science.adq2852)]
+- **Evaluation metrics in the era of GPT-4: reliably evaluating large language models on sequence to sequence tasks**
+
+  EMNLP 2023. [[Paper](https://arxiv.org/abs/2310.13800)]
+- **Open-LLM-Leaderboard: From Multi-choice to Open-style Questions for LLMs Evaluation, Benchmark, and Arena**
+
+  arXiv 2024. [[Paper](https://arxiv.org/abs/2406.07545)]
+- **Consolidating Ranking and Relevance Predictions of Large Language Models through Post-Processing**
+
+  arXiv 2024. [[Paper](https://arxiv.org/abs/2404.11791)]
+- **RevisEval: Improving LLM-as-a-Judge via Response-Adapted References**
+
+  arXiv 2024. [[Paper](https://arxiv.org/abs/2410.05193)]
+- **Generative judge for evaluating alignment**
+
+  arXiv 2023. [[Paper](https://arxiv.org/abs/2310.05470)]
+- **Self-evaluation improves selective generation in large language models**
+
+  NeurIPS 2023 (Workshops). [[Paper](https://arxiv.org/abs/2312.09300)]
+- **AI can help humans find common ground in democratic deliberation**
+
+  Science 2024. [[Paper](https://www.science.org/doi/abs/10.1126/science.adq2852)]
 
 ## 2.2 Multi-LLM System
 ### 2.2.1 Communication
 #### 2.2.1.1 Cooperation
-- **Towards reasoning in large language models via multi-agent peer review collaboration**. arXiv preprint arXiv:2311.08152 (2023). [[Paper](https://arxiv.org/abs/2311.08152)]
-- **Wider and deeper llm networks are fairer llm evaluators**. arXiv preprint arXiv:2308.01862 (2023). [[Paper](https://arxiv.org/abs/2308.01862)]
-- **ABSEval: An Agent-based Framework for Script Evaluation**. ACL (2024). [[Paper](https://aclanthology.org/2024.emnlp-main.691/)]
+- **Towards reasoning in large language models via multi-agent peer review collaboration**
+
+  arXiv 2023. [[Paper](https://arxiv.org/abs/2311.08152)]
+- **Wider and deeper llm networks are fairer llm evaluators**
+
+  arXiv 2023. [[Paper](https://arxiv.org/abs/2308.01862)]
+- **ABSEval: An Agent-based Framework for Script Evaluation**
+
+  ACL 2024. [[Paper](https://aclanthology.org/2024.emnlp-main.691/)]
+
 #### 2.2.1.2 Competition
-- **Adversarial Multi-Agent Evaluation of Large Language Models through Iterative Debates**. arXiv preprint arXiv:2410.04663 (2024). [[Paper](https://arxiv.org/abs/2410.04663)]
-- **A multi-llm debiasing framework**. arXiv preprint arXiv:2409.13884 (2024). [[Paper](https://arxiv.org/abs/2409.13884)]
-- **Prd: Peer rank and discussion improve large language model based evaluations**. TMLR (2024). [[Paper](https://arxiv.org/abs/2307.02762)]
-- **Chateval: Towards better llm-based evaluators through multi-agent debate**. arXiv preprint arXiv:2308.07201 (2023). [[Paper](https://arxiv.org/abs/2308.07201)]
-- **Evaluating the Performance of Large Language Models via Debates**. arXiv preprint arXiv:2406.11044 (2024). [[Paper](https://arxiv.org/abs/2406.11044)]
-- **Auto Arena of LLMs: Automating LLM Evaluations with Agent Peer-battles and Committee Discussions**. arXiv preprint arXiv:2405.20267 (2024). [[Paper](https://arxiv.org/abs/2405.20267)]
+- **Adversarial Multi-Agent Evaluation of Large Language Models through Iterative Debates**
+
+  arXiv 2024. [[Paper](https://arxiv.org/abs/2410.04663)]
+- **A multi-llm debiasing framework**
+
+  arXiv 2024. [[Paper](https://arxiv.org/abs/2409.13884)]
+- **Prd: Peer rank and discussion improve large language model based evaluations**
+
+  TMLR 2024. [[Paper](https://arxiv.org/abs/2307.02762)]
+- **Chateval: Towards better llm-based evaluators through multi-agent debate**
+
+  arXiv 2023. [[Paper](https://arxiv.org/abs/2308.07201)]
+- **Evaluating the Performance of Large Language Models via Debates**
+
+  arXiv 2024. [[Paper](https://arxiv.org/abs/2406.11044)]
+- **Auto Arena of LLMs: Automating LLM Evaluations with Agent Peer-battles and Committee Discussions**
+
+  arXiv 2024. [[Paper](https://arxiv.org/abs/2405.20267)]
 
 ### 2.2.2 Aggregation
-- **Replacing Judges with Juries: Evaluating LLM Generations with a Panel of Diverse Models**. arXiv preprint arXiv:2404.18796 (2024). [[Paper](https://arxiv.org/abs/2404.18796)]
-- **Benchmarking foundation models with language-model-as-an-examiner**. NeurIPS Datasets and Benchmarks (2023). [[Paper](https://arxiv.org/abs/2306.04181)]
-- **Pre: A peer review based large language model evaluator**. arXiv preprint arXiv:2401.15641 (2024). [[Paper](https://arxiv.org/abs/2401.15641)]
-- **Large language models as evaluators for recommendation explanations**. Proceedings of the 18th ACM Conference on Recommender Systems. [[Paper](https://arxiv.org/abs/2406.03248)]
-- **Bayesian Calibration of Win Rate Estimation with LLM Evaluators**. EMNLP (2024). [[Paper](https://arxiv.org/abs/2411.04424)]
-- **Trust or Escalate: LLM Judges with Provable Guarantees for Human Agreement**. arXiv preprint arXiv:2407.18370 (2024). [[Paper](https://arxiv.org/abs/2407.18370)]
-- **Fusion-Eval: Integrating Assistant Evaluators with LLMs**. Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing: Industry Track. [[Paper](https://arxiv.org/abs/2311.09204)]
-- **AIME: AI System Optimization via Multiple LLM Evaluators**. arXiv preprint arXiv:2410.03131 (2024). [[Paper](https://arxiv.org/abs/2410.03131)]
-- **HD-Eval: Aligning Large Language Model Evaluators Through Hierarchical Criteria Decomposition**. arXiv preprint arXiv:2402.15754 (2024). [[Paper](https://arxiv.org/abs/2402.15754)]
-- **An empirical study of llm-as-a-judge for llm evaluation: Fine-tuned judge models are task-specific classifiers**. arXiv preprint arXiv:2403.02839 (2024). [[Paper](https://arxiv.org/abs/2403.02839)]
-- **Multi-News+: Cost-efficient Dataset Cleansing via LLM-based Data Annotation**. EMNLP (2024). [[Paper](https://arxiv.org/abs/2404.09682)]
-- **Reference-Guided Verdict: LLMs-as-Judges in Automatic Evaluation of Free-Form Text**. arXiv preprint arXiv:2408.09235 (2024). [[Paper](https://arxiv.org/abs/2408.09235)]
-- **PiCO: Peer Review in LLMs based on the Consistency Optimization**. arXiv preprint arXiv:2402.01830 (2024). [[Paper](https://arxiv.org/abs/2402.01830)]
-- **Language Model Preference Evaluation with Multiple Weak Evaluators**. arXiv preprint arXiv:2410.12869 (2024). [[Paper](https://arxiv.org/abs/2410.12869)]
+- **Replacing Judges with Juries: Evaluating LLM Generations with a Panel of Diverse Models**
+
+  arXiv 2024. [[Paper](https://arxiv.org/abs/2404.18796)]
+- **Benchmarking foundation models with language-model-as-an-examiner**
+
+  NeurIPS 2023 (Datasets and Benchmarks). [[Paper](https://arxiv.org/abs/2306.04181)]
+- **Pre: A peer review based large language model evaluator**
+
+  arXiv preprint arXiv:2401.15641 2024. [[Paper](https://arxiv.org/abs/2401.15641)]
+- **Large language models as evaluators for recommendation explanations**
+
+  Proceedings of the 18th ACM Conference on Recommender Systems. [[Paper](https://arxiv.org/abs/2406.03248)]
+- **Bayesian Calibration of Win Rate Estimation with LLM Evaluators**
+
+  EMNLP 2024. [[Paper](https://arxiv.org/abs/2411.04424)]
+- **Trust or Escalate: LLM Judges with Provable Guarantees for Human Agreement**
+
+  arXiv 2024. [[Paper](https://arxiv.org/abs/2407.18370)]
+- **Fusion-Eval: Integrating Assistant Evaluators with LLMs**
+
+  Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing: Industry Track. [[Paper](https://arxiv.org/abs/2311.09204)]
+- **AIME: AI System Optimization via Multiple LLM Evaluators**
+
+  arXiv 2024. [[Paper](https://arxiv.org/abs/2410.03131)]
+- **HD-Eval: Aligning Large Language Model Evaluators Through Hierarchical Criteria Decomposition**
+
+  arXiv 2024. [[Paper](https://arxiv.org/abs/2402.15754)]
+- **An empirical study of llm-as-a-judge for llm evaluation: Fine-tuned judge models are task-specific classifiers**
+
+  arXiv 2024. [[Paper](https://arxiv.org/abs/2403.02839)]
+- **Multi-News+: Cost-efficient Dataset Cleansing via LLM-based Data Annotation**
+
+  EMNLP 2024. [[Paper](https://arxiv.org/abs/2404.09682)]
+- **Reference-Guided Verdict: LLMs-as-Judges in Automatic Evaluation of Free-Form Text**
+
+  arXiv 2024. [[Paper](https://arxiv.org/abs/2408.09235)]
+- **PiCO: Peer Review in LLMs based on the Consistency Optimization**
+
+  arXiv 2024. [[Paper](https://arxiv.org/abs/2402.01830)]
+- **Language Model Preference Evaluation with Multiple Weak Evaluators**
+
+  arXiv 2024. [[Paper](https://arxiv.org/abs/2410.12869)]
 
 ## 2.3 Hybrid System
-- **Collaborative Evaluation: Exploring the Synergy of Large Language Models and Humans for Open-ended Generation Evaluation**. arXiv preprint arXiv:2310.19740 (2023). [[Paper](https://arxiv.org/abs/2310.19740)]
-- **Large language models are not fair evaluators**. arXiv preprint arXiv:2305.17926 (2023). [[Paper](https://arxiv.org/abs/2305.17926)]
-- **Large Language Model as an Assignment Evaluator: Insights, Feedback, and Challenges in a 1000+ Student Course**. EMNLP (2024). [[Paper](https://arxiv.org/abs/2407.05216)]
-- **Human-Centered Design Recommendations for LLM-as-a-judge**. arXiv preprint arXiv:2407.03479 (2024). [[Paper](https://arxiv.org/abs/2407.03479)]
-- **Who validates the validators? aligning llm-assisted evaluation of llm outputs with human preferences**. Proceedings of the 37th Annual ACM Symposium on User Interface Software and Technology. [[Paper](https://arxiv.org/abs/2404.12272)]
+- **Collaborative Evaluation: Exploring the Synergy of Large Language Models and Humans for Open-ended Generation Evaluation**
+
+  arXiv 2023. [[Paper](https://arxiv.org/abs/2310.19740)]
+- **Large language models are not fair evaluators**
+
+  arXiv 2023. [[Paper](https://arxiv.org/abs/2305.17926)]
+- **Large Language Model as an Assignment Evaluator: Insights, Feedback, and Challenges in a 1000+ Student Course**
+
+  EMNLP 2024. [[Paper](https://arxiv.org/abs/2407.05216)]
+- **Human-Centered Design Recommendations for LLM-as-a-judge**
+
+  arXiv 2024. [[Paper](https://arxiv.org/abs/2407.03479)]
+- **Who validates the validators? aligning llm-assisted evaluation of llm outputs with human preferences**
+
+  Proceedings of the 37th Annual ACM Symposium on User Interface Software and Technology. [[Paper](https://arxiv.org/abs/2404.12272)]
 
 # 3. APPLICATION
 ## 3.1 General
