@@ -437,5 +437,3 @@ ACL Findings '23 [Paper](https://arxiv.org/abs/2306.01200)
 - **Retrieval-Augmented Generation for Large Language Models: A Survey**  
   arXiv 2023 [**Paper**](https://arxiv.org/abs/2306.07835) 
 
-
-- **The fellowship of the LLMs: Multi-agent workflows for synthetic preference optimization dataset generation**. *Samee Arif, Sualeha Farid, Abdul Hameed Azeemi, Awais Athar, Agha Ali Raza* arXiv preprint arXiv:2408.08688 (2024). [[Paper](https://arxiv.org/abs/2408.08688)]
