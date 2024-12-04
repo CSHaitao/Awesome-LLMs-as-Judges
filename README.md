@@ -4,11 +4,16 @@
 # 🌟 About This Repo
 This repo include the papers discussed in our latest survey paper on Awesome-LLMs-as-Judges.
 
-🔥: Read the full paper here: [Paper Link](xxx)
+📝: Read the full paper here: [Paper Link](xxx)
+
+# Update
+🔥🔥 News: 2024/12/05: 我们完成了项目的绝大部分工作，并发布了第一版完整论文。
+🔥🔥 News: 2024/11/10: 我们完成了项目的基础工作，并整理写作了初版论文。
 
 # 🧾 Contents
 - [🚀 Awesome-LLMs-as-Judges](#-awesome-llms-as-judges)
 - [🌟 About This Repo](#-about-this-repo)
+- [Update](#update)
 - [🧾 Contents](#-contents)
 - [📖 Cite Our Work](#-cite-our-work)
 - [📚 Overview of Awesome-LLMs-as-Judges](#-overview-of-awesome-llms-as-judges)
@@ -77,6 +82,7 @@ This repo include the papers discussed in our latest survey paper on Awesome-LLM
     - [5.3.1 Knowledge Recency](#531-knowledge-recency)
     - [5.3.2 Hallucination](#532-hallucination)
     - [5.3.3 Domain-Specific Knowledge Gaps](#533-domain-specific-knowledge-gaps)
+- [Welcome to discussion](#welcome-to-discussion)
 
 
 
@@ -1147,3 +1153,6 @@ NNLP (Workshop) 2023. 132–137. [[Paper](https://arxiv.org/abs/2309.11325)]
 - **Retrieval-Augmented Generation for Large Language Models: A Survey**  
 
   arXiv 2023 [[**Paper**](https://arxiv.org/pdf/2312.10997)]
+
+# Welcome to discussion
+We welcome anyone interested to engage in friendly communication with us!
