@@ -519,21 +519,21 @@ ACL Findings '23 [Paper](https://arxiv.org/abs/2306.01200)
 
   SFLLM Workshop @ NeurIPS 2024 [**Paper**](https://arxiv.org/abs/2410.02736)
 
-- **Large Language Models Can Be Easily Distracted by Irrelevant Context**
+- **Large Language Models Can Be Easily Distracted by Irrelevant Context**  
+  
+  ICML 2023 [**Paper**](https://openreview.net/forum?id=JSZmoN03Op)
 
-  arXiv preprint 2024 [**Paper**](https://arxiv.org/abs/2403.12345)
+- **Reference-Guided Verdict: LLMs-as-Judges in Automatic Evaluation of Free-Form Text**  
+  
+  ACL ARR 2024 [**Paper**](https://openreview.net/forum?id=kv1QO17Mba)
 
-- **Reference-Guided Verdict: LLMs-as-Judges in Automatic Evaluation of Free-Form Text**
+- **PRD: Peer rank and discussion improve large language model based evaluations**
 
-  ACL 2024 [**Paper**](https://aclanthology.org/2024.acl-long.123/)
+  arXiv preprint, July 2023 [**Paper**](https://openreview.net/forum?id=CbmAtAmQla)
 
-- **PRD: Peer Rank and Discussion Improve Large Language Model Based Evaluations**
-
-  ICLR 2024 [**Paper**](https://openreview.net/pdf?id=H1x3QZ9tW)
-
-- **Trust or Escalate: LLM Judges with Provable Guarantees for Human Agreement**
-
-  NeurIPS 2024 [**Paper**](https://papers.nips.cc/paper/2024/hash/abc123.pdf)
+- **Trust or Escalate: LLM Judges with Provable Guarantees for Human Agreement**  
+  
+  arXiv preprint, July 2024 [**Paper**](https://arxiv.org/abs/2407.18370) 
 
 - **Pride and Prejudice: LLM Amplifies Self-Bias in Self-Refinement**
 
@@ -543,25 +543,25 @@ ACL Findings '23 [Paper](https://arxiv.org/abs/2306.01200)
 
   arXiv preprint 2024 [**Paper**](https://arxiv.org/abs/2402.10669)
 
-- **Evaluations of Self and Others: Self-Enhancement Biases in Social Judgments**
-
-  Journal of Personality and Social Psychology, 2024 [**Paper**](https://doi.org/10.1037/pspa0000300)
+- **Evaluations of Self and Others: Self-Enhancement Biases in Social Judgments**  
+  
+  Social Cognition 1986 [**Paper**](https://doi.org/10.1521/soco.1986.4.4.353)
 
 - **Judging LLM-as-a-Judge with MT-Bench and Chatbot Arena**
 
   arXiv preprint 2023 [**Paper**](https://arxiv.org/abs/2306.05685)
 
-- **G-Eval: NLG Evaluation Using GPT-4 with Better Human Alignment**
-
-  EMNLP 2024 [**Paper**](https://aclanthology.org/2024.emnlp-main.123/)
+- **G-Eval: NLG Evaluation Using GPT-4 with Better Human Alignment**  
+  
+  EMNLP 2023 [**Paper**](https://aclanthology.org/2023.emnlp-main.153)
 
 - **Benchmarking Cognitive Biases in Large Language Models as Evaluators**
 
   Findings of ACL 2024 [**Paper**](https://aclanthology.org/2024.findings-acl.29/)
 
-- **Debating with More Persuasive LLMs Leads to More Truthful Answers**
-
-  ICLR 2024 [**Paper**](https://openreview.net/pdf?id=shr9PXz7T0) 
+- **Debating with More Persuasive LLMs Leads to More Truthful Answers**  
+  
+  ICML 2024 [**Paper**](https://proceedings.mlr.press/v235/khan24a.html)
 ## 5.2 Adversarial Attacks
 ### 5.2.1 Adversarial Attacks on LLMs
 - **HotFlip: White-Box Adversarial Examples for Text Classification**
@@ -572,74 +572,89 @@ ACL Findings '23 [Paper](https://arxiv.org/abs/2306.01200)
 
   ICML 2022 [**Paper**](https://proceedings.mlr.press/v162/lee22h.html)
 
-- **Adv-BERT: BERT is Not Robust on Misspellings! Generating Natural Adversarial Samples on BERT**
-
-  arXiv preprint 2019 [**Paper**](https://arxiv.org/abs/1904.06607)
+- **Adv-BERT: BERT is Not Robust on Misspellings! Generating Natural Adversarial Samples on BERT**  
+  
+  arXiv 2020 [**Paper**](https://arxiv.org/abs/2003.04985)
 
 - **An LLM Can Fool Itself: A Prompt-Based Adversarial Attack**
 
-  arXiv preprint 2023 [**Paper**](https://arxiv.org/abs/2303.12345)
+  ICLR 2024 [**Paper**](https://openreview.net/forum?id=0Q5e1C4kgM)
 
 - **Natural Backdoor Attack on Text Data**
-
-  EMNLP 2021 [**Paper**](https://aclanthology.org/2021.emnlp-main.123/)
+  
+  arXiv 2020 [**Paper**](https://arxiv.org/pdf/2006.16176)
 
 - **Ignore Previous Prompt: Attack Techniques for Language Models**
 
-  arXiv preprint 2023 [**Paper**](https://arxiv.org/abs/2304.12345)
+  arXiv 2022 [**Paper**](https://arxiv.org/abs/2211.09527)
 
-- **Prompt Packer: Deceiving LLMs through Compositional Instruction with Hidden Attacks**
+- **Prompt Packer: Deceiving LLMs through Compositional Instruction with Hidden Attacks**  
+  
+  arXiv 2023 [**Paper**](https://arxiv.org/pdf/2310.10077)  
 
-  NeurIPS 2023 [**Paper**](https://papers.nips.cc/paper/2023/hash/abc123.pdf)
-
-- **Evaluating the Susceptibility of Pre-Trained Language Models via Handcrafted Adversarial Examples**
-
-  ACL 2022 [**Paper**](https://aclanthology.org/2022.acl-long.456/) 
+- **Evaluating the Susceptibility of Pre-Trained Language Models via Handcrafted Adversarial Examples**  
+  
+  arXiv 2022 [**Paper**](https://arxiv.org/abs/2209.02128)
 ### 5.2.2 Adversarial Attacks on LLMs-as-Judges
 - **Cheating Automatic LLM Benchmarks: Null Models Achieve High Win Rates**  
+ 
   SafeGenAI @ NeurIPS 2024 [**Paper**](https://arxiv.org/abs/2410.07137)  
 
 - **Optimization-based Prompt Injection Attack to LLM-as-a-Judge**  
+  
   arXiv 2024 [**Paper**](https://arxiv.org/pdf/2403.17710)  
 
 - **Finding Blind Spots in Evaluator LLMs with Interpretable Checklists**  
+  
   EMNLP 2024 [**Paper**](https://aclanthology.org/2024.emnlp-main.911/)  
 
 - **Judging LLM-as-a-Judge with MT-Bench and Chatbot Arena**  
+ 
   NeurIPS 2023 Datasets and Benchmarks Track [**Paper**](https://papers.nips.cc/paper_files/paper/2023/hash/91f18a1287b398d378ef22505bf41832-Abstract-Datasets_and_Benchmarks.html)  
 
 - **Scaling Instruction-Finetuned Language Models**  
+  
   Journal of Machine Learning Research 2024 [**Paper**](https://jmlr.org/papers/v25/23-0870.html)  
 
 - **Is LLM-as-a-Judge Robust? Investigating Universal Adversarial Attacks on Zero-shot LLM Assessment**  
+  
   EMNLP 2024 [**Paper**](https://aclanthology.org/2024.emnlp-main.427/)  
 ## 5.3 Inherent Weaknesses
 ### 5.3.1 Knowledge Recency
 - **Retrieval-Augmented Generation for Large Language Models: A Survey**  
-  arXiv 2023 [**Paper**](https://arxiv.org/abs/2306.07835)
+  
+  arXiv 2023 [**Paper**](https://arxiv.org/pdf/2312.10997)
 
 - **Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks**  
+ 
   NeurIPS 2020 [**Paper**](https://proceedings.neurips.cc/paper/2020/file/6b493230205f780e1bc26945df7481e5-Paper.pdf)
 
 - **An Empirical Study of Catastrophic Forgetting in Large Language Models During Continual Fine-Tuning**  
+  
   arXiv 2023 [**Paper**](https://arxiv.org/abs/2308.08747)
 
 - **Continual Learning for Large Language Models: A Survey**  
+  
   arXiv 2024 [**Paper**](https://arxiv.org/abs/2402.01364)
 
 - **Striking the Balance in Using LLMs for Fact-Checking: A Narrative Literature Review**  
+  
   MISDOOM 2024 [**Paper**](https://link.springer.com/chapter/10.1007/978-3-031-71210-4_1) 
 ### 5.3.2 Hallucination
 - **Striking the Balance in Using LLMs for Fact-Checking: A Narrative Literature Review**  
+  
   MISDOOM 2024 [**Paper**](https://link.springer.com/chapter/10.1007/978-3-031-71210-4_1) 
   
 ### 5.3.3 Domain-Specific Knowledge Gaps
 - **Knowledge Solver: Teaching LLMs to Search for Domain Knowledge from Knowledge Graphs**  
+
   arXiv 2023 [**Paper**](https://arxiv.org/pdf/2309.03118)
 
 - **Unifying Large Language Models and Knowledge Graphs: A Roadmap**  
+
   arXiv 2023 [**Paper**](https://arxiv.org/pdf/2306.08302)
 
 - **Retrieval-Augmented Generation for Large Language Models: A Survey**  
-  arXiv 2023 [**Paper**](https://arxiv.org/abs/2306.07835) 
+
+  arXiv 2023 [**Paper**](https://arxiv.org/pdf/2312.10997)
 
