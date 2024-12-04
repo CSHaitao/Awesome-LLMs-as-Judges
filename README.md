@@ -83,7 +83,7 @@ This repo include the papers discussed in our latest survey paper on Awesome-LLM
     - [5.3.1 Knowledge Recency](#531-knowledge-recency)
     - [5.3.2 Hallucination](#532-hallucination)
     - [5.3.3 Domain-Specific Knowledge Gaps](#533-domain-specific-knowledge-gaps)
-- [Welcome to discussion](#welcome-to-discussion)
+- [👏 Welcome to discussion](#-welcome-to-discussion)
 
 
 
@@ -1155,5 +1155,5 @@ NNLP (Workshop) 2023. 132–137. [[Paper](https://arxiv.org/abs/2309.11325)]
 
   arXiv 2023 [[**Paper**](https://arxiv.org/pdf/2312.10997)]
 
-# Welcome to discussion
+# 👏 Welcome to discussion
 We welcome anyone interested to engage in friendly communication with us!
