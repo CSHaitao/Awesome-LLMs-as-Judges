@@ -408,7 +408,7 @@ If our survey is useful for your research, please kindly cite our [paper](https:
   NeurIPS 2023 (Datasets and Benchmarks). [[Paper](https://arxiv.org/abs/2306.04181)]
 - **Pre: A peer review based large language model evaluator**
 
-  arXiv preprint arXiv:2401.15641 2024. [[Paper](https://arxiv.org/abs/2401.15641)]
+  arXiv 2024. [[Paper](https://arxiv.org/abs/2401.15641)]
 - **Large language models as evaluators for recommendation explanations**
 
   Proceedings of the 18th ACM Conference on Recommender Systems. [[Paper](https://arxiv.org/abs/2406.03248)]
