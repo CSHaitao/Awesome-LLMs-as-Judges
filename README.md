@@ -183,95 +183,116 @@ ACL Findings '23 [Paper](https://arxiv.org/abs/2306.01200)
 ## 4.1 Benchmarks
 ### 4.1.1 Code Generation
 - **SWE-bench: Can Language Models Resolve Real-World GitHub Issues?**  
+  
   ICLR 2024 [**Paper**](https://arxiv.org/abs/2310.06770)
 
 - **CodeUltraFeedback: An LLM-as-a-Judge Dataset for Aligning Large Language Models to Coding Preferences**  
+  
   arXiv 2024 [**Paper**](https://arxiv.org/pdf/2403.09032)
 
 - **Evaluating Large Language Models Trained on Code**  
+  
   arXiv 2021 [**Paper**](https://arxiv.org/abs/2107.03374)
 
 - **Agent-as-a-Judge: Evaluate Agents with Agents**  
+  
   arXiv 2024 [**Paper**](https://arxiv.org/abs/2410.10934)
 
 - **CrossCodeEval: A Diverse and Multilingual Benchmark for Cross-File Code Completion**  
+  
   NeurIPS 2023 (Datasets and Benchmarks Track) [**Paper**](https://papers.nips.cc/paper_files/paper/2023/file/920f2dced7d32ab2ba2f1970bc306af6-Paper-Datasets_and_Benchmarks.pdf) 
 ### 4.1.2 Machine Translation
 - **Experts, errors, and context: A large-scale study of human evaluation for machine translation**  
+  
   TACL 2021 [**Paper**](https://aclanthology.org/2021.tacl-1.87)
 
-- **Results of the WMT21 metrics shared task: Evaluating metrics with expert-based human evaluations on TED and news domain**  
-  WMT 2021 [**Paper**](https://aclanthology.org/2021.wmt-1.11/) 
+- **Results of the WMT21 Metrics Shared Task: Evaluating Metrics with Expert-Based Human Evaluations on TED and News Domain**  
+  
+  Proceedings of the Sixth Conference on Machine Translation (WMT), 2021 [**Paper**](https://aclanthology.org/2021.wmt-1.73/). 
 
-- **Large language models effectively leverage document-level context for literary translation, but critical errors persist**  
-  ACL 2023 [**Paper**](https://aclanthology.org/2023.findings-acl.268/) 
+- **Large Language Models Effectively Leverage Document-Level Context for Literary Translation, but Critical Errors Persist**  
+  
+  Proceedings of the Sixth Conference on Machine Translation (WMT), 2023 [**Paper**](https://aclanthology.org/2023.wmt-1.41/). 
 ### 4.1.3 Text Summarization
-- **Understanding factuality in abstractive summarization with FRANK: A benchmark for factuality metrics**  
-  ACL 2024 [**Paper**](https://arxiv.org/abs/2305.03225)
+- **Understanding Factuality in Abstractive Summarization with FRANK: A Benchmark for Factuality Metrics**  
+  
+  NAACL 2021 [**Paper**](https://aclanthology.org/2021.naacl-main.383/). 
 
-- **Summeval: Re-evaluating summarization evaluation**  
-  NAACL 2023 [**Paper**](https://aclanthology.org/2023.naacl-main.368/)
+- **SummEval: Re-evaluating Summarization Evaluation**  
+  
+  Transactions of the Association for Computational Linguistics (TACL), 2021 [**Paper**](https://aclanthology.org/2021.tacl-1.24/). 
 
 - **Opinsummeval: Revisiting automated evaluation for opinion summarization**  
+  
   EMNLP 2023 [**Paper**](https://arxiv.org/abs/2310.18122)
 ### 4.1.4 Dialogue Generation
-- **Topical-chat: Towards knowledge-grounded open-domain conversations**  
-  ACL 2020 [**Paper**](https://aclanthology.org/2020.acl-main.49/)
+- **Topical-Chat: Towards Knowledge-Grounded Open-Domain Conversations**  
+  
+  INTERSPEECH 2019 [**Paper**](https://arxiv.org/abs/2308.11995). 
 
 - **Automatic evaluation and moderation of open-domain dialogue systems**  
+  
   DSTC10 [**Paper**](https://arxiv.org/abs/2111.02110)
 
-- **Personalizing dialogue agents: I have a dog, do you have pets too**  
-  ACL 2020 [**Paper**](https://aclanthology.org/2020.acl-main.39/)
+- **Personalizing Dialogue Agents: I Have a Dog, Do You Have Pets Too?**  
+  
+  ACL 2018 [**Paper**](https://aclanthology.org/P18-1205/). 
 
-- **USR: An unsupervised and reference free evaluation metric for dialog generation**  
-  ACL 2020 [**Paper**](https://aclanthology.org/2020.acl-main.56/)
+- **USR: An Unsupervised and Reference-Free Evaluation Metric for Dialog Generation**  
+  
+  ACL 2020 [**Paper**](https://aclanthology.org/2020.acl-main.64/). 
 
 - **Overview of the Tenth Dialog System Technology Challenge: DSTC10**  
-  DSTC10 [**Paper**](https://arxiv.org/abs/2111.02110)
+  
+  IEEE/ACM Transactions on Audio, Speech, and Language Processing, 2023 [**Paper**](https://ieeexplore.ieee.org/document/10174647). 
 
 ### 4.1.5 Automatic Story Generation
-- **OpenMEVA: A benchmark for evaluating open-ended story generation metrics**
+- **OpenMEVA: A Benchmark for Evaluating Open-ended Story Generation Metrics**  
   
-  ACL 2023 [**Paper**](https://aclanthology.org/2023.acl-long.474/)
+  ACL 2021 [**Paper**](https://aclanthology.org/2021.acl-long.500/). 
 
-- **Of human criteria and automatic metrics: A benchmark of the evaluation of story generation**
+- **Of Human Criteria and Automatic Metrics: A Benchmark of the Evaluation of Story Generation**  
   
-  ACL 2023 [**Paper**](https://aclanthology.org/2023.acl-long.119/)
+  COLING 2022 [**Paper**](https://aclanthology.org/2022.coling-1.509/). 
 
-- **Learning personalized story evaluation**
+- **Learning Personalized Story Evaluation**  
   
-  EMNLP 2023 [**Paper**](https://arxiv.org/abs/2310.03304)
+  ICLR 2024 [**Paper**](https://openreview.net/forum?id=7AS7vaVU8d). 
 
-- **Hierarchical neural story generation**
+- **Hierarchical Neural Story Generation**  
   
-  ICLR 2020 [**Paper**](https://openreview.net/forum?id=Syx59JEtPB)
+  ACL 2018 [**Paper**](https://aclanthology.org/P18-1082/). 
 
-- **A corpus and cloze evaluation for deeper understanding of commonsense stories**
+- **A Corpus and Cloze Evaluation for Deeper Understanding of Commonsense Stories**  
   
-  ACL 2022 [**Paper**](https://aclanthology.org/2022.acl-long.39/)
+  NAACL 2016 [**Paper**](https://aclanthology.org/N16-1098/). 
 
-- **StoryER: Automatic story evaluation via ranking, rating and reasoning**
+- **StoryER: Automatic Story Evaluation via Ranking, Rating and Reasoning**  
   
-  EMNLP 2022 [**Paper**](https://aclanthology.org/2022.emnlp-main.98/)
+  EMNLP 2022 [**Paper**](https://aclanthology.org/2022.emnlp-main.114/). 
 ### 4.1.6 Values Alignment
-- **A general language assistant as a laboratory for alignment. arXiv**  
-  arXiv 2023 [**Paper**](https://arxiv.org/abs/2305.05910)
+- **A general language assistant as a laboratory for alignment**
+  
+  arXiv 2021 [**Paper**](https://arxiv.org/abs/2112.00861)
 
 - **PKU-SafeRLHF: Towards Multi-Level Safety Alignment for LLMs with Human Preference**  
+
   arXiv 2024 [**Paper**](https://arxiv.org/abs/2406.15513)
 
-- **Cvalues: Measuring the values of chinese large language models from safety to responsibility**  
-  arXiv 2023 [**Paper**](https://arxiv.org/pdf/2307.09705)
+- **Cvalues: Measuring the values of Chinese large language models from safety to responsibility**  
+  
+  arXiv 2023 [**Paper**](https://arxiv.org/abs/2307.09705)
 
 ### 4.1.7 Recommendation
 - **Large Language Models as Evaluators for Recommendation Explanations**  
   RecSys 2024 [**Paper**](https://doi.org/10.1145/3640457.3688075)
 
-- **Yelp dataset challenge: Review rating prediction**  
-  KDD 2015 [**Paper**](https://dl.acm.org/doi/10.1145/2808797.2808807)
+- **Yelp Dataset Challenge: Review Rating Prediction**  
+  
+  arXiv 2016 [**Paper**](https://arxiv.org/abs/1605.05362). 
 
 - **The movielens datasets: History and context**  
+  
   TiiS 2016 [**Paper**](https://dl.acm.org/doi/10.1145/2827872)
 
 ### 4.1.8 Search
@@ -279,23 +300,27 @@ ACL Findings '23 [Paper](https://arxiv.org/abs/2306.01200)
   
   SIGIR 2024 [**Paper**](https://researchr.org/publication/LiSWAM024)
 - **Overview of the TREC 2021 Deep Learning Track**  
+  
   TREC 2021 [**Paper**](https://trec.nist.gov/pubs/trec30/papers/Overview-DL.pdf)
 
-- **Overview of the TREC 2023 NeuCLIR Track**  
-  TREC 2023 [**Paper**](https://trec.nist.gov/pubs/trec30/papers/Overview-NeuCLIR.pdf)
+- **Overview of the TREC 2023 NeuCLIR Track**
+
+  TREC 2023 [**Paper**](https://arxiv.org/abs/2404.08071)
 
 - **Ms MARCO: A human generated machine reading comprehension dataset**
 
   ICLR 2017 [**Paper**](https://openreview.net/forum?id=Hk1iOLcle)
 
-- **Overview of the TREC 2022 Deep Learning Track**  
-  TREC 2022 [**Paper**](https://trec.nist.gov/pubs/trec30/papers/Overview-DL.pdf)
+- **Overview of the TREC 2022 Deep Learning Track**
+
+  Text REtrieval Conference (TREC) 2022 [**Paper**](https://trec.nist.gov/pubs/trec31/papers/Overview_deep.pdf)
 ### 4.1.9 Comprehensive Data
 - **Length-controlled alpacaeval: A simple way to debias automatic evaluators**
 
   COLM 2024 [**Paper**](https://openreview.net/forum?id=CybBmzWBX0)
 
 - **Helpsteer: Multi-attribute helpfulness dataset for steerlm**  
+  
   NAACL 2024 [**Paper**](https://researchr.org/publication/WangDZASEDSKSK24)
 
 - **ULTRAFEEDBACK: Boosting Language Models with Scaled AI Feedback**
@@ -303,6 +328,7 @@ ACL Findings '23 [Paper](https://arxiv.org/abs/2306.01200)
   ICML 2024 [**Paper**](https://openreview.net/forum?id=BOorDpKHiJ)
 
 - **Helpsteer2-preference: Complementing ratings with preferences**  
+  
   CoRR 2024 [**Paper**](https://arxiv.org/abs/2410.01257)
   
 - **Enhancing Chat Language Models by Scaling High-quality Instructional Conversations**
@@ -353,8 +379,6 @@ ACL Findings '23 [Paper](https://arxiv.org/abs/2306.01200)
   
   LMSYS Org 2023 [**Paper**](https://lmsys.org/blog/2023-03-30-vicuna/). 
 ## 4.2 Metric
-明白了！以下是按正确格式返回的内容：
-
 - **Pearson correlation coefficient**  
   
   Philosophical Transactions of the Royal Society of London, 1895 [**Paper**](https://link.springer.com/content/pdf/10.1007/978-3-642-00296-0_5.pdf).
