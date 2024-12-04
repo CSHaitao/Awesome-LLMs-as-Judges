@@ -8,7 +8,7 @@ This repo include the papers discussed in our latest survey paper on Awesome-llm
 🔥: Read the full paper here: [Paper Link](xxx)
 
 ## Reference
-If our survey is useful for your research, please kindly cite our [paper](https://arxiv.org/abs/2411.16594):
+If our survey is useful for your research, please kindly cite our [paper](https://arxiv.org/abs/xxx):
 ```
 在这里添加引用！
 ```
