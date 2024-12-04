@@ -23,10 +23,10 @@ If our survey is useful for your research, please kindly cite our [paper](https:
 ### 1.1.1 Responses Evaluation
 - **Llm-eval: Unified multi-dimensional automatic evaluation for open-domain conversations with large language models**
   
-  ACL 2023 [[Paper](https://arxiv.org/abs/2305.13711)]
+  ACL 2023. [[Paper](https://arxiv.org/abs/2305.13711)]
 - **Automated Genre-Aware Article Scoring and Feedback Using Large Language Models**
   
-  arXiv 2024 [[Paper](https://arxiv.org/abs/2410.14165)]
+  arXiv 2024. [[Paper](https://arxiv.org/abs/2410.14165)]
 - **Is LLM a Reliable Reviewer? A Comprehensive Evaluation of LLM on Automatic Paper Reviewing Tasks**
   
   LREC-COLING 2024. [[Paper](https://aclanthology.org/2024.lrec-main.816/)]
@@ -181,6 +181,9 @@ If our survey is useful for your research, please kindly cite our [paper](https:
 ## 2.1 Single-LLM System
 ### 2.1.1 Prompt-based
 #### 2.1.1.1 In-Context Learning
+- **A systematic survey of prompt engineering in large language models: Techniques and applications**
+
+  arXiv 2024. [[Paper](https://arxiv.org/abs/2402.07927)]
 - **A survey on in-context learning**
 
   arXiv 2022. [[Paper](https://arxiv.org/abs/2301.00234)]
@@ -189,7 +192,7 @@ If our survey is useful for your research, please kindly cite our [paper](https:
   arXiv 2023. [[Paper](https://arxiv.org/abs/2302.04166)]
 - **Llm-eval: Unified multi-dimensional automatic evaluation for open-domain conversations with large language models**
 
-  NLP4ConvAI (2023). [[Paper](https://arxiv.org/abs/2305.13711)]
+  NLP4ConvAI 2023. [[Paper](https://arxiv.org/abs/2305.13711)]
 - **TALEC: Teach Your LLM to Evaluate in Specific Domain with In-house Criteria by Criteria Division and Zero-shot Plus Few-shot**
 
   arXiv 2024. [[Paper](https://arxiv.org/abs/2407.10999)]
@@ -237,14 +240,14 @@ If our survey is useful for your research, please kindly cite our [paper](https:
 - **FineSurE: Fine-grained summarization evaluation using LLMs**
 
   ACL 2024. [[Paper](https://arxiv.org/abs/2407.00908)]
+- **Split and merge: Aligning position biases in large language model based evaluators**
+
+  arXiv 2023. [[Paper](https://arxiv.org/abs/2310.01432)]
 
 #### 2.1.1.3 Definition Augmentation
 - **Can LLM be a Personalized Judge?**
 
   arXiv 2024. [[Paper](https://arxiv.org/abs/2406.11657)]
-- **Split and merge: Aligning position biases in large language model based evaluators**
-
-  arXiv 2023. [[Paper](https://arxiv.org/abs/2310.01432)]
 - **Biasalert: A plug-and-play tool for social bias detection in llms**
 
   arXiv 2024. [[Paper](https://arxiv.org/abs/2407.10241)]
@@ -265,6 +268,15 @@ If our survey is useful for your research, please kindly cite our [paper](https:
 - **Kieval: A knowledge-grounded interactive evaluation framework for large language models**
 
   ACL 2024. [[Paper](https://arxiv.org/abs/2402.15043)]
+- **Auto Arena of LLMs: Automating LLM Evaluations with Agent Peer-battles and Committee Discussions**
+
+  arXiv 2024. [[Paper](https://arxiv.org/abs/2405.20267)]
+- **Benchmarking foundation models with language-model-as-an-examiner**
+
+  NeurIPS 2023 (Datasets and Benchmarks). [[Paper](https://arxiv.org/abs/2306.04181)]
+- **VideoAutoArena: An Automated Arena for Evaluating Large Multimodal Models in Video Analysis through User Simulation**
+
+  arXiv 2024 [[Paper](https://arxiv.org/abs/2411.13281)]
 
 ### 2.1.2 Tuning-based
 ### 2.1.2.1 Score-based Tuning
