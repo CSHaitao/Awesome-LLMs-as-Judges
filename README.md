@@ -4,14 +4,17 @@
 # 🌟 About This Repo
 With the rapid development of LLMs, LLMs-as-Judges has garnered widespread attention in both academia and industry. LLM judges are not only capable of serving as flexible evaluators in various fields such as text generation, question answering, and dialogue systems, but also facilitate the self-evolution and performance improvement of models. This repository aims to provide a one-stop resource for developers, researchers, and practitioners, helping them explore how to effectively leverage LLMs-as-Judges technology.
 
-This repo include the papers discussed in our latest survey paper.
+This repo include the papers discussed in our latest survey paper: 📝[LLMs-as-Judges: A Comprehensive Survey on Large Language Model based Evaluation Methods.]
 
-📝: Read the full paper here: [Paper Link](xxx)
+We will continuously track the latest developments in LLMs-as-Judges and regularly update the repository with the newest related papers. If you find this repository helpful, please give us a ⭐!
+
+If you notice any work we've missed, please feel free to submit a pull request or contact us at email liht22@mails.tsinghua.edu.cn. We will update the repository and our paper. Welcome to discuss and contribute!
 
 # ⚡️ Update
-🔥🔥 News: 2024/12/05: 我们完成了项目的绝大部分工作，并发布了第一版完整论文。
 
-🔥🔥 News: 2024/11/10: 我们完成了项目的基础工作，并整理写作了初版论文。
+🔥🔥 News: 2024/12/05: We released the first version of the full paper.
+
+🔥🔥 News: 2024/11/10: We completed the foundational work for the project and structured the framework.
 
 # 🌳 Contents
 - [🚀 Awesome-LLMs-as-Judges](#-awesome-llms-as-judges)
@@ -90,7 +93,7 @@ This repo include the papers discussed in our latest survey paper.
 
 
 # 📖 Cite Our Work
-If our survey is useful for your research, we'd be thrilled if you could cite our [paper](https://arxiv.org/abs/xxx):
+If you find our work useful, please do not save your star and cite our work:
 ```
 在这里添加引用！
 ```
