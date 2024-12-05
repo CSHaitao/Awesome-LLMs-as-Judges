@@ -4,11 +4,15 @@
 # 🌟 About This Repo
 With the rapid development of LLMs, LLMs-as-Judges has garnered widespread attention in both academia and industry. LLM judges are not only capable of serving as flexible evaluators in various fields such as text generation, question answering, and dialogue systems, but also facilitate the self-evolution and performance improvement of models. This repository aims to provide a one-stop resource for developers, researchers, and practitioners, helping them explore how to effectively leverage LLMs-as-Judges technology.
 
-This repo include the papers discussed in our latest survey paper: 📝[LLMs-as-Judges: A Comprehensive Survey on Large Language Model based Evaluation Methods.]
+This repo include the papers discussed in our latest survey paper: 
+
+📝[LLMs-as-Judges: A Comprehensive Survey on Large Language Model based Evaluation Methods.]
 
 We will continuously track the latest developments in LLMs-as-Judges and regularly update the repository with the newest related papers. If you find this repository helpful, please give us a ⭐!
 
-If you notice any work we've missed, please feel free to submit a pull request or contact us at email liht22@mails.tsinghua.edu.cn. We will update the repository and our paper. Welcome to discuss and contribute!
+If you notice any work we've missed, please feel free to submit a pull request or contact us at email liht22@mails.tsinghua.edu.cn. 
+
+We will update the repository and our paper. Welcome to discuss and contribute!
 
 # ⚡️ Update
 
