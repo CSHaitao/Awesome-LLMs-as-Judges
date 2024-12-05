@@ -379,7 +379,13 @@ If you find our work useful, please do not save your star and cite our work:
   arXiv 2024 [[Paper](https://arxiv.org/abs/2411.13281)]
 
 ### 2.1.2 Tuning-based
+- **On the limitations of fine-tuned judge models for llm evaluation**
+
+  arXiv 2024. [[Paper](https://arxiv.org/html/2403.02839v2)]
 ### 2.1.2.1 Score-based Tuning
+- **Adaptation with self-evaluation to improve selective prediction in llms**
+
+  EMNLP 2023 (Findings). [[Paper](https://arxiv.org/abs/2310.11689)]
 - **Learning personalized story evaluation**
 
   arXiv 2023. [[Paper](https://arxiv.org/abs/2310.03304)]
@@ -395,6 +401,15 @@ If you find our work useful, please do not save your star and cite our work:
 - **Self-Judge: Selective Instruction Following with Alignment Self-Evaluation**
 
   arXiv 2024. [[Paper](https://arxiv.org/abs/2409.00935)]
+- **Automatic evaluation of attribution by large language models**
+
+  EMNLP 2023 (Findings). [[Paper](https://arxiv.org/abs/2305.06311)]
+- **Sorry-bench: Systematically evaluating large language model safety refusal behaviors**
+
+  arXiv 2024. [[Paper](https://arxiv.org/abs/2406.14598)]
+- **Tigerscore: Towards building explainable metric for all text generation tasks**
+
+  TLMR 2024. [[Paper](https://arxiv.org/abs/2310.00752)]
 
 ### 2.1.2.2 Preference-based Learning
 - **Beyond Scalar Reward Model: Learning Generative Judge from Preference Data**
@@ -424,6 +439,45 @@ If you find our work useful, please do not save your star and cite our work:
 - **CompassJudger-1: All-in-one Judge Model Helps Model Evaluation and Evolution**
 
   arXiv 2024. [[Paper](https://arxiv.org/abs/2410.16256)]
+- **Direct preference optimization: Your language model is secretly a reward model**
+
+  NeurIPS 2023. [[Paper](https://arxiv.org/abs/2305.18290)]
+- **Meta-rewarding language models: Self-improving alignment with llm-as-a-meta-judge**
+
+  arXiv 2024. [[Paper](https://arxiv.org/abs/2407.19594)]
+- **Judgelm: Fine-tuned large language models are scalable judges**
+
+  arXiv 2023. [[Paper](https://arxiv.org/abs/2310.17631)]
+- **INSTRUCTSCORE: Explainable Text Generation Evaluation with Finegrained Feedback**
+
+  EMNLP 2023. [[Paper](https://arxiv.org/abs/2305.14282)]
+- **Generative judge for evaluating alignment**
+
+  arXiv 2023. [[Paper](https://arxiv.org/abs/2310.05470)]
+- **Shepherd: A critic for language model generation**
+
+  arXiv 2023. [[Paper](https://arxiv.org/abs/2308.04592)]
+- **X-eval: Generalizable multi-aspect text evaluation via augmented instruction tuning with auxiliary evaluation aspects**
+
+  NAACL 2024. [[Paper](https://arxiv.org/abs/2311.08788)]
+- **Themis: A reference-free nlg evaluation language model with flexibility and interpretability**
+
+  EMNLP 2024. [[Paper](https://arxiv.org/abs/2406.18365)]
+- **Critiquellm: Towards an informative critique generation model for evaluation of large language model generation**
+
+  ACL 2024. [[Paper](https://arxiv.org/abs/2311.18702)]
+- **Mitigating the Bias of Large Language Model Evaluation**
+
+  arXiv 2024. [[Paper](https://arxiv.org/abs/2409.16788)]
+- **Halu-j: Critique-based hallucination judge**
+
+  arXiv 2024. [[Paper](https://arxiv.org/abs/2407.12943)]
+- **Prometheusvision: Vision-language model as a judge for fine-grained evaluation**
+
+  ICLR 2024 (Workshop). [[Paper](https://arxiv.org/abs/2401.06591)]
+- **Llava-critic: Learning to evaluate multimodal models**
+
+  arXiv 2024. [[Paper](https://arxiv.org/abs/2410.02712)]
 
 ### 2.1.3 Post-processing
 ### 2.1.3.1 Probability Calibration
