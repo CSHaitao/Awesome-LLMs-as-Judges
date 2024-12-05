@@ -293,9 +293,7 @@ If you find our work useful, please do not save your star and cite our work:
 - **Calibrate before use: Improving few-shot performance of language models**
 
   ICML 2021. [[Paper](https://arxiv.org/abs/2102.09690)]
-- **Batch calibration: Rethinking calibration for in-context learning and prompt engineering**
 
-  ICLR 2024. [[Paper](https://arxiv.org/abs/2309.17249)]
 - **Prototypical calibration for few-shot learning of language models**
 
   arXiv 2022. [[Paper](https://arxiv.org/abs/2205.10183)]
@@ -403,9 +401,6 @@ If you find our work useful, please do not save your star and cite our work:
 - **Self-rationalization improves LLM as a fine-grained judge**
 
   arXiv 2024. [[Paper](https://arxiv.org/abs/2410.05495)]
-- **Mitigating the Bias of Large Language Model Evaluation**
-
-  arXiv 2024. [[Paper](https://arxiv.org/abs/2409.16788)]
 - **Foundational autoraters: Taming large language models for better automatic evaluation**
 
   arXiv 2024. [[Paper](https://arxiv.org/abs/2407.10817)]
@@ -534,7 +529,7 @@ If you find our work useful, please do not save your star and cite our work:
 
   arXiv 2024. [[Paper](https://arxiv.org/abs/2410.12869)]
 
-## 2.3 Hybrid System
+## 2.3 Human-AI Collaboration System
 - **Collaborative Evaluation: Exploring the Synergy of Large Language Models and Humans for Open-ended Generation Evaluation**
 
   arXiv 2023. [[Paper](https://arxiv.org/abs/2310.19740)]
@@ -920,10 +915,6 @@ NNLP (Workshop) 2023. 132–137. [[Paper](https://arxiv.org/abs/2309.11325)]
   
   ICLR 2024 [[**Paper**](https://openreview.net/pdf?id=L3FHMoKZcS)]
 
-- **Beyond Scalar Reward Model: Learning Generative Judge from Preference Data**
-  
-  ICLR 2025 [[**Paper**](https://arxiv.org/abs/2410.03742)]
-
 - **Large Language Models Are Zero-Shot Rankers for Recommender Systems**
 
   ECIR 2024 [[**Paper**](https://link.springer.com/chapter/10.1007/978-3-031-56060-6_24) ]
@@ -952,10 +943,6 @@ NNLP (Workshop) 2023. 132–137. [[Paper](https://arxiv.org/abs/2309.11325)]
 
   ACM International Conference on Web Search and Data Mining (WSDM) 2018[ [**Paper**](https://dl.acm.org/doi/pdf/10.1145/3159652.3159732)]
 
-- **PRD: Peer rank and discussion improve large language model based evaluations**
-
-  arXiv preprint, July 2023 [[**Paper**](https://openreview.net/forum?id=CbmAtAmQla)]
-
 - **Humans or LLMs as the judge? A study on judgement biases**
 
   EMNLP 2024 [[**Paper**](https://aclanthology.org/2024.emnlp-main.474.pdf)]
@@ -971,10 +958,6 @@ NNLP (Workshop) 2023. 132–137. [[Paper](https://arxiv.org/abs/2309.11325)]
 - **Generative judge for evaluating alignment**
 
   International Conference on Learning Representations (ICLR) 2024 [[**Paper**](https://openreview.net/forum?id=0kokhUetZ3)]
-
-- **Judging LLM-as-a-Judge with MT-Bench and Chatbot Arena**
-
-  NeurIPS 2023[ [**Paper**](https://papers.nips.cc/paper_files/paper/2023/hash/91f18a1287b398d378ef22505bf41832-Abstract-Datasets_and_Benchmarks.html) ]
 
 - **Justice or prejudice? quantifying biases in llm-as-a-judge**
   
@@ -1005,14 +988,6 @@ NNLP (Workshop) 2023. 132–137. [[Paper](https://arxiv.org/abs/2309.11325)]
 
   ICLR 2023 [[**Paper**](https://openreview.net/forum?id=0VWe0yBPxg)]
 
-- **Justice or Prejudice? Quantifying Biases in LLM-as-a-Judge**
-
-  SFLLM Workshop @ NeurIPS 2024 [[**Paper**](https://arxiv.org/abs/2410.02736)]
-
-- **Are Large Language Models Rational Investors?**
-
-  arXiv preprint 2024 [[**Paper**](https://arxiv.org/html/2402.12713v1)]
-
 - **Bias Patterns in the Application of LLMs for Clinical Decision Support: A Comprehensive Study**
 
   arXiv preprint 2024 [[**Paper**](https://arxiv.org/html/2404.15149)]
@@ -1021,9 +996,6 @@ NNLP (Workshop) 2023. 132–137. [[Paper](https://arxiv.org/abs/2309.11325)]
 
   ICLR 2024 [[**Paper**](https://openreview.net/pdf?id=SkEG9q1Rtw) ]
 ### 5.1.4 Cognitive-Related Biases
-- **Justice or Prejudice? Quantifying Biases in LLM-as-a-Judge**
-
-  SFLLM Workshop @ NeurIPS 2024 [[**Paper**](https://arxiv.org/abs/2410.02736)]
 
 - **Large Language Models Can Be Easily Distracted by Irrelevant Context**  
   
@@ -1032,10 +1004,6 @@ NNLP (Workshop) 2023. 132–137. [[Paper](https://arxiv.org/abs/2309.11325)]
 - **Reference-Guided Verdict: LLMs-as-Judges in Automatic Evaluation of Free-Form Text**  
   
   ACL ARR 2024 [[**Paper**](https://openreview.net/forum?id=kv1QO17Mba)]
-
-- **PRD: Peer rank and discussion improve large language model based evaluations**
-
-  arXiv preprint, July 2023 [[**Paper**](https://openreview.net/forum?id=CbmAtAmQla)]
 
 - **Trust or Escalate: LLM Judges with Provable Guarantees for Human Agreement**  
   
@@ -1052,14 +1020,6 @@ NNLP (Workshop) 2023. 132–137. [[Paper](https://arxiv.org/abs/2309.11325)]
 - **Evaluations of Self and Others: Self-Enhancement Biases in Social Judgments**  
   
   Social Cognition 1986 [[**Paper**](https://doi.org/10.1521/soco.1986.4.4.353)]
-
-- **Judging LLM-as-a-Judge with MT-Bench and Chatbot Arena**
-
-  arXiv preprint 2023 [[**Paper**](https://arxiv.org/abs/2306.05685)]
-
-- **G-Eval: NLG Evaluation Using GPT-4 with Better Human Alignment**  
-  
-  EMNLP 2023 [[**Paper**](https://aclanthology.org/2023.emnlp-main.153)]
 
 - **Benchmarking Cognitive Biases in Large Language Models as Evaluators**
 
