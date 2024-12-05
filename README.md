@@ -1,4 +1,5 @@
-![LLMs-as-Judges](./img/LLMs-as-Judges.png)
+<img src="./img/LLMs-as-Judges.png" alt="LLMs-as-Judges" style="zoom:25%;" />
+
 # 🚀 Awesome-LLMs-as-Judges
 [![GitHub Sponsors](https://img.shields.io/badge/sponsors-GitHub-blue?logo=github&logoColor=white)](https://github.com/sponsors) ![Build Status](https://img.shields.io/badge/build-passing-brightgreen) ![License](https://img.shields.io/badge/license-MIT-yellow) ![Contributors](https://img.shields.io/badge/contributors-10-yellow) ![Awesome List](https://img.shields.io/badge/awesome-awesome-brightgreen) ![](https://img.shields.io/badge/PRs-Welcome-red)
 
@@ -106,6 +107,7 @@ If you find our work useful, please do not save your star and cite our work:
 # 📚 Overview of Awesome-LLMs-as-Judges
 ![Overview](./img/overview.png)
 ![limit](./img/limit.png)
+![Framwork](./img//framework.png)
 
 # 📑 PaperList
 
