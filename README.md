@@ -57,7 +57,7 @@ We will update the repository and our paper. Welcome to discuss and contribute!
       - [2.2.1.1 Cooperation](#2211-cooperation)
       - [2.2.1.2 Competition](#2212-competition)
     - [2.2.2 Aggregation](#222-aggregation)
-  - [2.3 Hybrid System](#23-hybrid-system)
+  - [2.3 Human-AI Collaboration System](#23-human-ai-collaboration-system)
 - [3. APPLICATION](#3-application)
   - [3.1 General](#31-general)
   - [3.2 Multimodal](#32-multimodal)
@@ -167,6 +167,10 @@ If you find our work useful, please do not save your star and cite our work:
   
   arXiv 2024. [[Paper](https://arxiv.org/abs/2409.20370)]
 
+- **Adaptation with Self-Evaluation to Improve Selective Prediction in LLMs**
+  
+  EMNLP (findings) 2023. [[Paper](https://aclanthology.org/2023.findings-emnlp.345.pdf)]
+
 ### 1.2.2 Acting as Verifier During Inference
 - **Regularized Best-of-N Sampling to Mitigate Reward Hacking for Language Model Alignment**
   
@@ -267,6 +271,13 @@ If you find our work useful, please do not save your star and cite our work:
   
   arXiv 2023. [[Paper](https://arxiv.org/abs/2312.06585)]
 
+- **SAFER-INSTRUCT: Aligning Language Models with Automated Preference Data**
+
+  NAACL 2024. [[Paper](https://aclanthology.org/2024.naacl-long.422.pdf)]
+
+- **soda-eval: open-domain dialogue evaluation in the age of llms**
+
+  EMNLP (findings) 2024. [[Paper](https://aclanthology.org/2024.findings-emnlp.684.pdf)]
 
 # 2. METHODOLOGY
 ## 2.1 Single-LLM System
@@ -495,6 +506,11 @@ If you find our work useful, please do not save your star and cite our work:
 - **Pre: A peer review based large language model evaluator**
 
   arXiv 2024. [[Paper](https://arxiv.org/abs/2401.15641)]
+
+- **An Automatic and Cost-Efficient Peer-Review Framework for Language Generation Evaluation**
+
+  arXiv 2024. [[Paper](https://arxiv.org/abs/2410.12265)]
+
 - **Large language models as evaluators for recommendation explanations**
 
   Proceedings of the 18th ACM Conference on Recommender Systems. [[Paper](https://arxiv.org/abs/2406.03248)]
@@ -649,6 +665,11 @@ NNLP (Workshop) 2023. 132–137. [[Paper](https://arxiv.org/abs/2309.11325)]
 - **LLMJudge: LLMs for Relevance Judgments**
   
   LLM4Eval 2024. [[Paper](https://arxiv.org/abs/2408.08896)]
+
+- **Don’t Use LLMs to Make Relevance Judgments**
+
+  arXiv 2024. [[Paper](https://arxiv.org/html/2409.15133v1)]
+
 - **JudgeRank: Leveraging Large Language Models for Reasoning-Intensive Reranking**
   
   arXiv 2024. [[Paper](https://arxiv.org/abs/2411.00142)]
@@ -931,6 +952,22 @@ NNLP (Workshop) 2023. 132–137. [[Paper](https://arxiv.org/abs/2309.11325)]
 
   EMNLP 2024 [[**Paper**](https://aclanthology.org/2024.emnlp-main.621/)]
 
+- **Judging the Judges: A Systematic Investigation of Position Bias in Pairwise Comparative Assessments by LLMs**
+  
+  arXiv 2024 [[Paper](https://arxiv.org/pdf/2406.07791)]
+
+- **Large Language Models are not Fair Evaluators**
+
+  ACL 2024 [[Paper](https://aclanthology.org/2024.acl-long.511.pdf)]
+
+- **REDUCING SELECTION BIAS IN LARGE LANGUAGE MODELS**
+
+  arXiv 2024 [[Paper](https://arxiv.org/pdf/2402.01740)]
+
+- **CalibraEval: Calibrating Prediction Distribution to Mitigate Selection Bias in LLMs-as-Judges**
+
+  arXiv 2024 [[Paper](https://arxiv.org/pdf/2410.15393)]
+
 - **Large language models are not fair evaluators**
 
   ACL 2024 [[**Paper**](https://aclanthology.org/2024.acl-long.511/)]
@@ -974,7 +1011,12 @@ NNLP (Workshop) 2023. 132–137. [[Paper](https://arxiv.org/abs/2309.11325)]
 
 - **Humans or LLMs as the Judge? A Study on Judgement Bias**
 
-  EMNLP 2024 [[**Paper**](https://aclanthology.org/2024.emnlp-main.474/) ]
+  EMNLP 2024 [[**Paper**](https://aclanthology.org/2024.emnlp-main.474/)]
+
+- **mind vs. mouth: on measuring re-judge inconsistency of social bias in large language models**
+
+  arXiv 2024 [[Paper](https://arxiv.org/pdf/2308.12578)]
+
 ### 5.1.3 Content-Related Biases
 - **Calibrate Before Use: Improving Few-Shot Performance of Language Models**
 
@@ -1124,5 +1166,16 @@ NNLP (Workshop) 2023. 132–137. [[Paper](https://arxiv.org/abs/2309.11325)]
 
   arXiv 2023 [[**Paper**](https://arxiv.org/pdf/2312.10997)]
 
+- **Limitations of the LLM-as-a-Judge Approach for Evaluating LLM Outputs in Expert Knowledge Tasks**
+
+  arXiv 2024 [[Paper](https://arxiv.org/pdf/2410.20266)]
+
+- **Limits to scalable evaluation at the frontier: LLM as Judge won’t beat twice the data**
+
+  arXiv 2024 [[Paper](https://arxiv.org/pdf/2410.13341)]
+
+- **Measuring the Inconsistency of Large Language Models in Ordinal Preference Formation**
+
+  KnowLLM (Workshop) 2024 [[Paper](https://aclanthology.org/2024.knowllm-1.14.pdf)]
 # 👏 Welcome to discussion
 We welcome anyone interested to engage in friendly communication with us!
