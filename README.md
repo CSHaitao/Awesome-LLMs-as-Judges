@@ -199,7 +199,7 @@ If you find our work useful, please do not save your star and cite our work:
   AAAI 2024.[[Paper](https://arxiv.org/abs/2308.09687)]
 - **Let’s verify step by step**
   
-  ILCR 2024. [[Paper](https://arxiv.org/abs/2305.20050)]
+  ICLR 2024. [[Paper](https://arxiv.org/abs/2305.20050)]
 - **Self-evaluation guided beam search for reasoning**
   
   NeurIPS 2024. [[Paper](https://arxiv.org/abs/2305.00633)]
@@ -448,7 +448,7 @@ If you find our work useful, please do not save your star and cite our work:
   arXiv 2024. [[Paper](https://arxiv.org/abs/2408.02666)]
 - **Pandalm: An automatic evaluation benchmark for llm instruction tuning optimization**
 
-  ILCR 2024. [[Paper](https://arxiv.org/abs/2306.05087)]
+  ICLR 2024. [[Paper](https://arxiv.org/abs/2306.05087)]
 - **CompassJudger-1: All-in-one Judge Model Helps Model Evaluation and Evolution**
 
   arXiv 2024. [[Paper](https://arxiv.org/abs/2410.16256)]
