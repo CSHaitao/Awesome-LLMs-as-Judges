@@ -10,7 +10,7 @@ With the rapid development of LLMs, LLMs-as-Judges has garnered widespread atten
 
 This repo include the papers discussed in our latest survey paper: 
 
-📝[LLMs-as-Judges: A Comprehensive Survey on Large Language Model based Evaluation Methods.]
+📝[LLMs-as-Judges: A Comprehensive Survey on Large Language Model based Evaluation Methods.](https://arxiv.org/abs/2412.05579)
 
 We will continuously track the latest developments in LLMs-as-Judges and regularly update the repository with the newest related papers. If you find this repository helpful, please give us a ⭐!
 
@@ -20,7 +20,7 @@ We will update the repository and our paper. Welcome to discuss and contribute!
 
 # ⚡️ Update
 
-🔥🔥 News: 2024/12/05: We released the first version of the full paper.
+🔥🔥 News: 2024/12/10: We released the first version of the [full paper]((https://arxiv.org/abs/2412.05579)).
 
 🔥🔥 News: 2024/11/10: We completed the foundational work for the project and structured the framework.
 
