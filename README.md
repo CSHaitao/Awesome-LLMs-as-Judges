@@ -103,7 +103,15 @@ We will update the repository and our paper. Welcome to discuss and contribute!
 # 📖 Cite Our Work
 If you find our work useful, please do not save your star and cite our work:
 ```
-在这里添加引用！
+@misc{li2024llmsasjudgescomprehensivesurveyllmbased,
+      title={LLMs-as-Judges: A Comprehensive Survey on LLM-based Evaluation Methods}, 
+      author={Haitao Li and Qian Dong and Junjie Chen and Huixue Su and Yujia Zhou and Qingyao Ai and Ziyi Ye and Yiqun Liu},
+      year={2024},
+      eprint={2412.05579},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2412.05579}, 
+}
 ```
 
 # 📚 Overview of Awesome-LLMs-as-Judges
