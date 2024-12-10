@@ -1,5 +1,5 @@
 <div align="center">
-<img src="./img/LLMs-as-Judges.png" style="width: 20%;height: 30%">
+<img src="./img/LLMs-as-Judges.png" style="width: 40%;height: 40%">
 </div>
 
 # 🚀 Awesome-LLMs-as-Judges
