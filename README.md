@@ -1219,6 +1219,14 @@ NNLP (Workshop) 2023. 132–137. [[Paper](https://arxiv.org/abs/2309.11325)]
 - **Striking the Balance in Using LLMs for Fact-Checking: A Narrative Literature Review**  
   
   MISDOOM 2024 [[Paper](https://link.springer.com/chapter/10.1007/978-3-031-71210-4_1)] 
+
+- **Survey of Hallucination in Natural Language Generation**
+
+  ACM COMPUTING SURVEYS 2024 [[Paper](https://arxiv.org/pdf/2202.03629)]
+
+- **A Comprehensive Survey of Hallucination Mitigation Techniques in Large Language Models**
+
+  arXiv 2024 [[Paper](https://arxiv.org/abs/2401.01313)]
   
 ### 5.3.3 Domain-Specific Knowledge Gaps
 - **Knowledge Solver: Teaching LLMs to Search for Domain Knowledge from Knowledge Graphs**  
