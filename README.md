@@ -20,7 +20,7 @@ We will update the repository and our paper. Welcome to discuss and contribute!
 
 # ⚡️ Update
 
-🔥🔥 News: 2024/12/10: We released the first version of the [full paper]((https://arxiv.org/abs/2412.05579)).
+🔥🔥 News: 2024/12/10: We released the first version of the [full paper](https://arxiv.org/abs/2412.05579).
 
 🔥🔥 News: 2024/11/10: We completed the foundational work for the project and structured the framework.
 
