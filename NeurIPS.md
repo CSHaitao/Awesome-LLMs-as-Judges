@@ -4,14 +4,14 @@
 # Spotlight Paper
 - **Self-Consuming Generative Models with Curated Data Provably Optimize Human Preferences** [[Paper](https://arxiv.org/abs/2407.09499)]
 
-- ****Buffer of Thoughts: Thought-**Augmented Reasoning with Large Language Models**** [[Paper](https://arxiv.org/abs/2406.04271)]
+- **Buffer of Thoughts: Thought-Augmented Reasoning with Large Language Models** [[Paper](https://arxiv.org/abs/2406.04271)]
 
 - **Adaptive Image Quality Assessment via Teaching Large Multimodal Model to Compare** [[Paper](https://arxiv.org/abs/2405.19298)]
 # Poster Paper
 
 - **Synatra: Turning Indirect Knowledge into Direct Demonstrations for Digital Agents at Scale** [[Paper](https://arxiv.org/abs/2409.15637)]
 
-- **Detecting Bugs with Substantial Monetary Consequences by LLM and Rule-**based Reasoning** [[Paper](https://openreview.net/pdf?id=hB5NkiET32)]
+- **Detecting Bugs with Substantial Monetary Consequences by LLM and Rule-based Reasoning** [[Paper](https://openreview.net/pdf?id=hB5NkiET32)]
 
 - **A Critical Evaluation of AI Feedback for Aligning Large Language Models** [[Paper](https://arxiv.org/pdf/2402.12366)] 
 
@@ -21,7 +21,7 @@
 
 - **JiuZhang3.0: Efficiently Improving Mathematical Reasoning by Training Small Data Synthesis Models** [[Paper](https://arxiv.org/abs/2405.14365)]
 
-- **ReST-MCTS*: LLM Self-Training via Process Reward Guided Tree Search** [[Paper](https://arxiv.org/abs/2406.03816)]
+- **ReST-MCTS\*: LLM Self-Training via Process Reward Guided Tree Search** [[Paper](https://arxiv.org/abs/2406.03816)]
 
 - **AutoSurvey: Large Language Models Can Automatically Write Surveys** [[Paper](https://arxiv.org/abs/2406.10252)]
 
@@ -33,7 +33,7 @@
 
 - **Star-Agents: Automatic Data Optimization with LLM Agents for Instruction Tuning** [[Paper](https://openreview.net/pdf?id=jXsxGt80sv)]
 
-- **RL on Incorrect Synthetic Data Scales the Efficiency of LLM Math Reasoning by Eight-**Fold** [[Paper](https://arxiv.org/abs/2406.14532)]
+- **RL on Incorrect Synthetic Data Scales the Efficiency of LLM Math Reasoning by Eight-Fold** [[Paper](https://arxiv.org/abs/2406.14532)]
 
 - **INDICT: Code Generation with Internal Dialogues of Critiques for Both Security and Helpfulness** [[Paper](https://openreview.net/pdf?id=jCMYIUwprx)]
 
