@@ -1,3 +1,7 @@
+The role of LLMs-as-Judges is a rapidly developing research area, with a wealth of significant papers emerging at NeurIPS 2024. This repository organizes key papers from NeurIPS 2024, covering multiple directions, including the latest advancements in optimizing human preferences, model self-improvement, and the application of LLM judges in solving complex problems. 
+Our aim is to provide researchers and developers with the latest theories and methods to drive the deeper development of the LLMs-as-Judges.
+
+
 # Oral Paper (1)
 
 - **LLM Evaluators Recognize and Favor Their Own Generations**
