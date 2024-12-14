@@ -118,7 +118,7 @@ If you find our work useful, please do not save your star and cite our work:
 # 📚 Overview of Awesome-LLMs-as-Judges
 ![Overview](./img/overview.png)
 ![limit](./img/limit.png)
-![Framwork](./img//framework.png)
+![Framework](./img//framework.png)
 
 # 📑 PaperList
 
