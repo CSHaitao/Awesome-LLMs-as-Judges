@@ -19,6 +19,7 @@ If you notice any work we've missed, please feel free to submit a pull request o
 We will update the repository and our paper. Welcome to discuss and contribute!
 
 # ⚡️ Update
+🔥🔥 News: 2024/12/14: We compiled papers related to LLMs-as-Judges presented at [NeurIPS 2024](NeurIPS.md).
 
 🔥🔥 News: 2024/12/10: We released the first version of the [full paper](https://arxiv.org/abs/2412.05579).
 
