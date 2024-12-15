@@ -6,7 +6,7 @@
 [![GitHub Sponsors](https://img.shields.io/badge/sponsors-GitHub-blue?logo=github&logoColor=white)](https://github.com/sponsors) ![Build Status](https://img.shields.io/badge/build-passing-brightgreen) ![License](https://img.shields.io/badge/license-MIT-yellow) ![Contributors](https://img.shields.io/badge/contributors-10-yellow) ![Awesome List](https://img.shields.io/badge/awesome-awesome-brightgreen) ![](https://img.shields.io/badge/PRs-Welcome-red)
 
 # 🌟 About This Repo
-With the rapid development of LLMs, LLMs-as-Judges has garnered widespread attention in both academia and industry. LLM judges are not only capable of serving as flexible evaluators in various fields such as text generation, question answering, and dialogue systems, but also facilitate the self-evolution and performance improvement of models. This repository aims to provide a one-stop resource for developers, researchers, and practitioners, helping them explore how to effectively leverage LLMs-as-Judges technology.
+With the rapid development of LLMs, LLM-as-a-Judge has garnered widespread attention in both academia and industry. LLM judges are not only capable of serving as flexible evaluators in various fields such as text generation, question answering, and dialogue systems, but also facilitate the self-evolution and performance improvement of models. This repository aims to provide a one-stop resource for developers, researchers, and practitioners, helping them explore how to effectively leverage LLMs-as-Judges technology.
 
 This repo include the papers discussed in our latest survey paper: 
 
