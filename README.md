@@ -18,6 +18,9 @@ If you notice any work we've missed, please feel free to submit a pull request o
 
 We will update the repository and our paper. Welcome to discuss and contribute!
 
+# 📚 Daily arXiv Papers on LLMs-as-Judges
+[Daily arXiv Papers on LLMs-as-Judges](https://github.com/Deriq-Qian-Dong/arXivReporter/tree/main/LLMs-as-Judges) includes the latest paper titles and abstracts related to LLMs-as-Judges on arXiv, with information available in both English and Chinese.
+
 # ⚡️ Update
 🔥🔥 News: 2024/12/14: We compiled papers related to LLMs-as-Judges presented at [NeurIPS 2024](NeurIPS.md).
 
@@ -28,6 +31,7 @@ We will update the repository and our paper. Welcome to discuss and contribute!
 # 🌳 Contents
 - [🚀 Awesome-LLMs-as-Judges](#-awesome-llms-as-judges)
 - [🌟 About This Repo](#-about-this-repo)
+- [📚 Daily arXiv Papers on LLMs-as-Judges](#-daily-arxiv-papers-on-llms-as-judges)
 - [⚡️ Update](#️-update)
 - [🌳 Contents](#-contents)
 - [📖 Cite Our Work](#-cite-our-work)
