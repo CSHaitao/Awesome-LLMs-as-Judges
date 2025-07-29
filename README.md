@@ -360,6 +360,10 @@ If you find our work useful, please do not save your star and cite our work:
 - **FineSurE: Fine-grained summarization evaluation using LLMs**
 
   ACL 2024. [[Paper](https://arxiv.org/abs/2407.00908)]
+
+- **Checklist Engineering Empowers Multilingual LLM Judges**
+
+  arXiv 2025. [[Paper](https://arxiv.org/pdf/2507.06774)] [[Github](https://github.com/mghiasvand1/CE-Judge)]
 - **Split and merge: Aligning position biases in large language model based evaluators**
 
   arXiv 2023. [[Paper](https://arxiv.org/abs/2310.01432)]
