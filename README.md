@@ -1227,6 +1227,7 @@ NNLP (Workshop) 2023. 132–137. [[Paper](https://arxiv.org/abs/2309.11325)]
   
   MISDOOM 2024 [[Paper](https://link.springer.com/chapter/10.1007/978-3-031-71210-4_1)]
 ### 5.3.2 Hallucination
+- **[REFUTE](https://bgpt.pro/refute)** — Scientific critique & epistemic calibration (judge-free). Tests whether models overclaim on recent science summaries; critique skill ≠ calibration. [Dataset](https://huggingface.co/datasets/BGPT-OFFICIAL/refute) · [Leaderboard](https://huggingface.co/spaces/BGPT-OFFICIAL/refute-leaderboard)
 - **Striking the Balance in Using LLMs for Fact-Checking: A Narrative Literature Review**  
   
   MISDOOM 2024 [[Paper](https://link.springer.com/chapter/10.1007/978-3-031-71210-4_1)] 
