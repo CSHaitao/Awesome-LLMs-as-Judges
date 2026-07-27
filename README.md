@@ -915,6 +915,9 @@ NNLP (Workshop) 2023. 132–137. [[Paper](https://arxiv.org/abs/2309.11325)]
 
   Text REtrieval Conference (TREC) 2022 [[Paper](https://trec.nist.gov/pubs/trec31/papers/Overview_deep.pdf)]
 ### 4.1.9 Comprehensive Data
+- **StructEval: A Benchmark for Structured Output Generation and Conversion**
+  TMLR 2025 [[Paper](https://arxiv.org/abs/2505.20139)] [[Code](https://github.com/TIGER-AI-Lab/StructEval)]
+
 - **Length-controlled alpacaeval: A simple way to debias automatic evaluators**
 
   COLM 2024 [[Paper](https://openreview.net/forum?id=CybBmzWBX0)]
