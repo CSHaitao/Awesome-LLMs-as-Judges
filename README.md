@@ -846,6 +846,11 @@ NNLP (Workshop) 2023. 132–137. [[Paper](https://arxiv.org/abs/2309.11325)]
   
   IEEE/ACM Transactions on Audio, Speech, and Language Processing, 2023 [[Paper](https://ieeexplore.ieee.org/document/10174647)] 
 
+### 4.1.4.x Methodological Standards
+- **Algorithmic Gold: Done is a claim. GOLD is a receipt.**  
+  
+  Verification standard for judge-based evaluation: six statistical gates (commit, parity, placebo, paired win, Goodhart, cost parity) plus 5 fresh seeds and a frozen holdout before any judge result counts as gold. Live benchmark receipts with honest second metrics. [[Site](https://jdkabattles.github.io/algorithmic-gold/)] [[Repo](https://github.com/jdkabattles/algorithmic-gold)]
+
 ### 4.1.5 Automatic Story Generation
 - **OpenMEVA: A Benchmark for Evaluating Open-ended Story Generation Metrics**  
   
